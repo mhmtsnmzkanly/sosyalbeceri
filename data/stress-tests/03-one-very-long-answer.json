@@ -1,0 +1,20 @@
+{
+  "id": "ST-003",
+  "series": "blue",
+  "category": "Aktif Dinleme",
+  "scenario": "Arkadaşınız zor bir gün geçirdiğini söyledi.",
+  "question": "Sohbeti destekleyici biçimde nasıl sürdürürsünüz?",
+  "media": {
+    "type": "image",
+    "src": "assets/screenshots/awkward-message.jpg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "Boş ver, geçer.",
+    "B": "Bunun seni ne kadar yorduğunu tahmin edebiliyorum; istersen önce sadece dinleyebilirim, sonra da benden nasıl bir destek beklediğini birlikte konuşabiliriz.",
+    "C": "Benim günüm daha zordu.",
+    "D": "Biraz dinlen."
+  },
+  "correctAnswer": "B",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

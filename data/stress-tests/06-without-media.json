@@ -1,0 +1,15 @@
+{
+  "id": "ST-006",
+  "series": "blue",
+  "category": "Sınır Koyma",
+  "scenario": "Bir tanıdığınız özel bir konuyu ısrarla soruyor.",
+  "question": "Kibar ama net bir sınırı nasıl ifade edersiniz?",
+  "answers": {
+    "A": "Bunu konuşmayı tercih etmiyorum, anlayışın için teşekkür ederim.",
+    "B": "Sana ne?",
+    "C": "Sonra anlatırım.",
+    "D": "Konuyu değiştiririm."
+  },
+  "correctAnswer": "A",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

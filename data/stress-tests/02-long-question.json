@@ -1,0 +1,20 @@
+{
+  "id": "ST-002",
+  "series": "blue",
+  "category": "İlk Temas",
+  "scenario": "Yeni başladığınız işte öğle arasında yanınıza oturan ekip arkadaşınız, yoğunluktan kimseyle tanışamadığını söyledi.",
+  "question": "Onun kendini daha rahat ve gruba ait hissetmesini sağlarken sohbeti doğal biçimde sürdürmek için nasıl karşılık verirsiniz?",
+  "media": {
+    "type": "image",
+    "src": "assets/screenshots/awkward-message.jpg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "Burada herkes yoğundur.",
+    "B": "İstersen birlikte yemek yiyelim.",
+    "C": "Zamanla alışırsın.",
+    "D": "Ben de kimseyi tanımıyorum."
+  },
+  "correctAnswer": "B",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

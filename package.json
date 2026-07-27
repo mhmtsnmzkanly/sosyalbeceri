@@ -1,0 +1,22 @@
+{
+  "name": "sosyalbeceri",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "bundle": "npm run build && esbuild src/cli.ts --bundle --platform=node --format=esm --target=node22 --external:@napi-rs/canvas --outfile=dist/renderer.js",
+    "test": "npm run build && node --test dist/tests/*.test.js",
+    "render": "npm run build && node --expose-gc dist/src/cli.js",
+    "render:all": "npm run build && node --expose-gc dist/src/cli.js --all",
+    "render:stress": "npm run build && node --expose-gc dist/src/stress-cli.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.68"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "esbuild": "^0.28.1",
+    "typescript": "^5.7.2"
+  }
+}

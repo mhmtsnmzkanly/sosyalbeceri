@@ -1,0 +1,33 @@
+# Installed dependencies
+/node_modules/
+
+# Generated TypeScript and bundled JavaScript
+/dist/
+*.tsbuildinfo
+
+# Generated card images
+/output/
+
+# Runtime and debug files
+*.log
+*.tmp
+*.temp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

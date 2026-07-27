@@ -1,0 +1,20 @@
+{
+  "id": "ST-005",
+  "series": "blue",
+  "category": "Dijital İletişim",
+  "scenario": "Bir arkadaşınız uzun bir sesli mesaj gönderdi.",
+  "question": "Hemen dinleyemeyeceğinizi nasıl söylersiniz?",
+  "media": {
+    "type": "illustration",
+    "src": "assets/illustrations/portrait-conversation.svg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "Sonra bakarım.",
+    "B": "Şu an uygun değilim; akşam dinleyip döneceğim.",
+    "C": "Çok uzun olmuş.",
+    "D": "Yazsaydın keşke."
+  },
+  "correctAnswer": "B",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

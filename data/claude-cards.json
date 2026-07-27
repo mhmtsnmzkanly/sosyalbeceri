@@ -1,0 +1,1956 @@
+{
+  "cards": [
+    {
+      "id": "MK-001",
+      "series": "blue",
+      "category": "Seyahat & İletişim",
+      "scenario": "Uçakta yanınızdaki kişi \"İlk kez biniyorum, biraz gerginim.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"İstatistiksel olarak en tehlikeli kısım kalkıştır.\" diye bilgi vermek",
+        "B": "\"Ben yüz kere bindim, hiçbir şey hissetmiyorum artık.\" demek",
+        "C": "\"Çok normal, ilk seferde herkes gerilir. Nereye gidiyorsunuz — tatil mi, iş mi?\" demek",
+        "D": "Kulaklığı takıp gözleri kapatmak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-002",
+      "series": "blue",
+      "category": "Eski Dostlar",
+      "scenario": "Yıllar sonra eski bir arkadaşınızla markette karşılaştınız.",
+      "question": "İlk hamleniz nedir?",
+      "answers": {
+        "A": "Görmemiş gibi yapıp makarna reyonuna sığınmak",
+        "B": "\"Aa! Ne kadar oldu görüşmeyeli? Sen neler yapıyorsun, anlatsana!\" demek",
+        "C": "\"Kilo almışsın sen.\" diye gözlem paylaşmak",
+        "D": "\"Beni hiç aramadın.\" diyerek muhasebe açmak"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-003",
+      "series": "blue",
+      "category": "Girişimcilik & Destek",
+      "scenario": "Arkadaşınız heyecanla yeni işini kurduğunu söyledi.",
+      "question": "Hangisi doğrudur?",
+      "answers": {
+        "A": "\"İşletmelerin yüzde sekseni ilk yıl batar.\" demek",
+        "B": "\"Ben olsam maaşlı işi bırakmazdım.\" demek",
+        "C": "\"Sermayeyi nereden buldun?\" diye ilk soruyu paraya getirmek",
+        "D": "\"Vay, tebrikler! Nasıl bir iş — bu fikir nereden geldi?\" demek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-004",
+      "series": "blue",
+      "category": "Misafirlik & Nezaket",
+      "scenario": "Misafirliktesiniz. Ev sahibi \"Yemek nasıl olmuş?\" diye sordu. Yemek biraz tuzsuz.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Tuzsuz olmuş.\" (Çıplak gerçek, sofrada.)",
+        "B": "\"Annemin yaptığı gibi olmamış tabii.\" demek",
+        "C": "\"Eline sağlık, çok güzel — özellikle şu sebzeli olan harikaydı. Tarifini alabilir miyim?\" demek",
+        "D": "Sessizce tuzluğa uzanıp göz teması kurmak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-005",
+      "series": "blue",
+      "category": "Hediye & İlgi",
+      "scenario": "Biri size bayıldığı bir kitabı hediye etti: \"Mutlaka oku, hayatımı değiştirdi!\"",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Kitap okumaya vaktim yok benim.\" demek",
+        "B": "\"Özetini izlerim ben bunun.\" demek",
+        "C": "\"Ben böyle kitapları sevmem.\" demek (kapağına bile bakmadan)",
+        "D": "\"Bu kadar etkilendiysen merak ettim — en çok neresi dokundu sana?\" demek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-006",
+      "series": "blue",
+      "category": "Sosyal Medya & Fotoğraf",
+      "scenario": "Grup fotoğrafı çekildi. Arkadaşınız \"Ben çok kötü çıkmışım.\" dedi.",
+      "question": "Doğru hamle hangisidir?",
+      "answers": {
+        "A": "\"Evet, biraz kötü çıkmışsın.\" diye onaylamak",
+        "B": "\"Herkes kendine bakar zaten, kimse seni fark etmez.\" demek",
+        "C": "\"Bence gayet iyisin — ama istersen bir tane daha çekelim?\" demek",
+        "D": "Fotoğrafı hemen sosyal medyada paylaşmak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-007",
+      "series": "blue",
+      "category": "Davet & Sınır Koyma",
+      "scenario": "Arkadaşınız sizi hiç ilgilenmediğiniz bir konsere davet etti. Gitmek istemiyorsunuz.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"O sanatçıyı dinleyen biriyle arkadaş olduğuma inanamıyorum.\" demek",
+        "B": "\"Beni düşünmene çok sevindim ama o tarz pek bana göre değil — başka bir gün yemeğe çıkalım mı?\" demek",
+        "C": "\"Bakarız.\" deyip o gün telefonu kapatmak",
+        "D": "\"Gelirim!\" deyip son dakika hastalanmak (her seferki gibi)"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-008",
+      "series": "blue",
+      "category": "Küçük Sohbet (Small Talk)",
+      "scenario": "Berberdesiniz. Berber \"Maçı izlediniz mi?\" dedi ama siz futbolla ilgilenmiyorsunuz.",
+      "question": "Sohbeti yaşatan cevap hangisidir?",
+      "answers": {
+        "A": "\"Futboldan nefret ederim.\" demek",
+        "B": "\"Hayır.\" (Makine sesi. Sessizlik. Ayna.)",
+        "C": "\"İzleyemedim ama herkes konuşuyor — ne oldu, güzel maç mıydı?\" demek",
+        "D": "\"Futbol modern toplumun afyonudur.\" diye başlamak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-009",
+      "series": "blue",
+      "category": "Sağlık & Empati",
+      "scenario": "Biri size sağlık sorunundan bahsetti: \"Belim çok ağrıyor bu aralar.\"",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Yaşlanıyoruz artık.\" demek",
+        "B": "\"Benim belim daha kötü. Otur da anlatayım.\" demek",
+        "C": "\"Yürüyüş yap, yüzme yap, yoga yap, fizik tedaviye git, yatağını değiştir.\" (tek nefeste)",
+        "D": "\"Geçmiş olsun ya. Ne zamandır böyle — doktora görünebildin mi?\" demek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-010",
+      "series": "blue",
+      "category": "Taksi & Siyaset",
+      "scenario": "Taksiye bindiniz, şoför tartışmalı bir siyasi konu açtı. Yolculuk 40 dakika.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Karşı görüşü savunarak sesi giderek yükselen bir münazara başlatmak",
+        "B": "\"Sizi anlıyorum, herkes zor durumda. Siz kaç yıldır bu işi yapıyorsunuz?\" diye nazikçe şerit değiştirmek",
+        "C": "İnmek (köprünün ortasında)",
+        "D": "Uyuma taklidi yapmak (gözler kapalı, kulaklar açık)"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-011",
+      "series": "blue",
+      "category": "Yeni Ebeveynlik",
+      "scenario": "Yeni ebeveyn arkadaşınız bebeğinin uyku düzenini 25 dakikadır anlatıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bizim zamanımızda bebekler kendi kendine uyurdu.\" demek",
+        "B": "\"Konuşacak başka konun kalmadı mı senin?\" demek",
+        "C": "Esneyerek ironik bir performans sergilemek",
+        "D": "\"Vay, zorlu bir dönemdesiniz. Peki sen kendine vakit ayırabiliyor musun hiç?\" diye onu da sormak"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-012",
+      "series": "blue",
+      "category": "İletişim & Yanlış Bilgi",
+      "scenario": "Biri ısrarla yanlış bir bilgiyi anlatıyor: \"Kesin bilgi, Everest Türkiye'de.\" Ortam kalabalık.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Yanlış biliyorsun!\" diye masaya vurarak düzeltmek",
+        "B": "Herkesin önünde telefondan kanıt gösterip zafer turu atmak",
+        "C": "\"İlginç, ben farklı biliyordum — istersen sonra beraber bakalım.\" deyip konuyu büyütmemek",
+        "D": "Gruptaki herkese tek tek \"duydunuz mu?\" diye bakmak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-013",
+      "series": "blue",
+      "category": "Diyet & Destek",
+      "scenario": "Arkadaşınız diyete başladığını söyledi: \"Bu sefer kararlıyım!\" (Bu yıl dördüncü kez.)",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Bu yıl kaçıncı bu?\" diye arşivden konuşmak",
+        "B": "\"Sen yapamazsın, geçen sefer de yapamadın.\" demek",
+        "C": "\"Süper, umarım bu sefer olur.\" deyip pastanızı yemeye devam etmek",
+        "D": "\"Ne güzel! Bu sefer nasıl bir yol izliyorsun — sana nasıl destek olabilirim?\" demek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-014",
+      "series": "blue",
+      "category": "İş Hayatı & Asansör",
+      "scenario": "İş görüşmesinden çıktınız, asansörde mülakatı yapan kişiyle yalnız kaldınız. Sekiz kat.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Görüşmedeki cevaplarınızı düzeltmeye çalışmak: \"Az önce dediğime ek olarak...\"",
+        "B": "\"Beni işe alacak mısınız?\" diye direkt sormak",
+        "C": "Duvara dönüp yokmuş gibi yapmak",
+        "D": "Gülümseyip \"Görüşme için tekrar teşekkürler, binanız çok güzelmiş bu arada.\" gibi hafif bir şey söylemek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-015",
+      "series": "blue",
+      "category": "Farklı Zevkler",
+      "scenario": "Arkadaşınız sizin hiç sevmediğiniz bir filme bayılmış, heyecanla anlatıyor.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"O film tam bir zaman kaybı.\" demek",
+        "B": "\"Senin film zevkine hiç güvenmiyorum zaten.\" demek",
+        "C": "\"Ben sevmemiştim ama sen çok sevmişsin — seni en çok ne etkiledi?\" demek",
+        "D": "Filmin mantık hatalarını numaralandırarak sıralamak"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-016",
+      "series": "blue",
+      "category": "Telefon & Sınır Koyma",
+      "scenario": "Telefonda sohbet 50 dakikayı geçti ve kapatmak istiyorsunuz ama karşı taraf hâlâ anlatıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Alo? Alo?! Kopuyorsun!\" deyip kapatmak (çekim gücü tam)",
+        "B": "Telefonu açık bırakıp ev işlerine dönmek",
+        "C": "Bir cümle bitiminde \"Seninle konuşmak çok iyi geldi — benim kalkıp yemeği koymam lazım, yarın devam edelim mi?\" demek",
+        "D": "Sessiz kalıp karşı tarafın \"orada mısın?\" demesini beklemek"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-017",
+      "series": "blue",
+      "category": "Mizah & Espri",
+      "scenario": "Biri espri yaptı ama komik değildi. Kendisi çok güldü.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bu komik değildi.\" diye jüri değerlendirmesi yapmak",
+        "B": "Buz gibi bir suratla bakmak",
+        "C": "\"Bunu daha önce de anlatmıştın, o zaman da gülmemiştim.\" demek",
+        "D": "Hafifçe gülümseyip sohbete devam etmek; ilerleyen dakikalarda gerçekten komik bir anıya alan açmak"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-018",
+      "series": "blue",
+      "category": "Apartman & Çatışma",
+      "scenario": "Apartman toplantısındasınız. Komşular aidat konusunda ikiye bölündü, ortam gerildi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Ses tonunu herkesten bir tık yukarı çıkarmak",
+        "B": "\"Ben zaten bu apartmandan taşınacağım.\" demek",
+        "C": "Eski aidat kavgalarını arşivden açmak (\"2019'da da böyle olmuştu!\")",
+        "D": "\"İki taraf da haklı noktalar söylüyor — önce neyin ortak olduğunu yazsak?\" diyerek ortak zemini göstermek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-019",
+      "series": "blue",
+      "category": "Farklı İnançlar",
+      "scenario": "Arkadaşınız yeni hobisine (astroloji) sizi de inandırmaya çalışıyor: \"Sen tam bir Koçsun!\" Siz inanmıyorsunuz.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Bilim dışı şeylerle uğraşan insanlarla konuşmam.\" demek",
+        "B": "\"Ben pek inanmıyorum ama sen ne zamandır ilgileniyorsun? Seni bu işe çeken ne oldu?\" demek",
+        "C": "Astrolojinin neden geçersiz olduğuna dair 20 dakikalık ders vermek",
+        "D": "\"Koç değilim ben, kimliğime bak istersen.\" demek"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-020",
+      "series": "blue",
+      "category": "Nezaket & Teşekkür",
+      "scenario": "Kargo görevlisi kapıya geldi, çok yorgun görünüyor ve \"Kusura bakmayın, geç kaldım.\" dedi.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Saat kaç, biliyor musunuz?\" demek",
+        "B": "\"Uygulamada 'dağıtımda' yazıyordu üç saattir.\" diye kanıt sunmak",
+        "C": "\"Hiç sorun değil, kolay gelsin — bugün yoğun galiba?\" demek",
+        "D": "Kapıyı imza atacak kadar açıp tek kelime etmemek"
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-021",
+      "series": "blue",
+      "category": "İsim Unutma & Nezaket",
+      "scenario": "Yemekli bir davette, masadaki biri sürekli sizin adınızı yanlış söylüyor. Üçüncü oldu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Onun adını da bilerek yanlış söylemeye başlamak (misilleme doktrini)",
+        "B": "Gülümseyip \"Bu arada ismim [doğrusu] — çok karıştırılıyor gerçekten.\" deyip sohbete devam etmek",
+        "C": "\"ADIM O DEĞİL.\" diye masayı susturmak",
+        "D": "Artık o isme cevap vermeye başlamak, yeni kimliğinizi benimsemek"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-022",
+      "series": "blue",
+      "category": "Lüks Harcama & Değerler",
+      "scenario": "Bir tanıdığınız sürekli lüks harcamalarından bahsediyor: \"Bu saat var ya...\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Daha pahalı bir şey uydurup yarışa katılmak",
+        "B": "\"Parayla saadet olmaz.\" diye atasözü fırlatmak",
+        "C": "\"Kredi mi çektin bunun için?\" diye sormak",
+        "D": "\"Güzelmiş. Peki bu aralar seni gerçekten heyecanlandıran ne var?\" diye sohbeti eşyadan insana çevirmek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-023",
+      "series": "blue",
+      "category": "Komşuluk & İletişim",
+      "scenario": "Komşunuz uzun bir tatilden döndü ve kapıda karşılaştınız.",
+      "question": "Ne dersiniz?",
+      "answers": {
+        "A": "\"Sizin çiçekler kurudu bu arada.\" diye habere girmek",
+        "B": "\"Hoş geldiniz! Nasıldı tatil — en güzel neresiydi?\" demek",
+        "C": "\"Biz de gidemedik işte, kimimiz çalışıyor.\" demek",
+        "D": "\"Ben tatilde ev bakan komşulara güvenmem.\" demek"
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-024",
+      "series": "blue",
+      "category": "Grup Sohbeti & Anılar",
+      "scenario": "Bir arkadaş grubunda herkes çocukluk anısı anlatıyor. Sıra size gelmek üzere ama aklınıza bir şey gelmiyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Benim çocukluğum sıkıcıydı.\" deyip topu düşürmek",
+        "B": "Başkasının anısını kendi anınız gibi anlatmak (yakalanma riski: yüksek)",
+        "C": "Tuvalete kaçmak, sıra geçene kadar dönmemek",
+        "D": "\"Sizinkileri dinleyince aklıma geldi — sen az önce mahalleden bahsettin, bizim mahallede de...\" diye küçük bir şeyden başlamak"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-025",
+      "series": "blue",
+      "category": "Duygusal Destek",
+      "scenario": "Arkadaşınız üzgün bir sesle \"Boş ver, anlatsam da anlamazsın.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Tamam, anlatma o zaman.\" deyip telefona dönmek",
+        "B": "\"Evet, muhtemelen anlamam.\" diye onaylamak",
+        "C": "\"Sen hep böyle dramatiksin.\" demek",
+        "D": "\"Belki tam anlayamam ama dinlemeyi çok isterim. Acele etme, buradayım.\" demek"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 1
+    },
+    {
+      "id": "MK-026",
+      "series": "blue",
+      "category": "Vedalaşma & İletişim",
+      "scenario": "Sohbet kapıda bitti, \"Hadi görüşürüz!\" dediniz. Ama iki taraf da hâlâ konuşuyor. 20 dakika oldu.",
+      "question": "Bu durumun bilimsel adı nedir?",
+      "answers": {
+        "A": "Kapı Önü Uzatmaları — ve bu aslında sohbetin iyi geçtiğinin işaretidir; \"Bu konuyu haftaya kahvede açalım!\" deyip gülümseyerek ayrılın",
+        "B": "Vedalaşma hatası — baştan almanız gerekir",
+        "C": "Kapı sizi bırakmıyordur",
+        "D": "Karşı taraf eve gitmenizi istemiyordur, gitmeyin"
+      },
+      "correctAnswer": "A",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-027",
+      "series": "blue",
+      "category": "Market",
+      "scenario": "Market kasasındaki görevli yorgun bir gülümsemeyle \"İyi akşamlar, poşet ister misiniz?\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Duymamış gibi telefona bakmaya devam edersiniz.",
+        "B": "\"İyi akşamlar, evet lütfen. Yoğun muydu bugün?\" dersiniz.",
+        "C": "\"Poşet paralı mı hâlâ?\" diye söylenirsiniz.",
+        "D": "Sadece \"Evet.\" dersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-028",
+      "series": "blue",
+      "category": "Komşuluk",
+      "scenario": "Binanıza yeni taşınan komşunuzla asansörde ilk kez karşılaştınız. Elinde koliler var.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Başınızı hafifçe sallayıp kata bakarsınız.",
+        "B": "\"Kolay gelsin, taşınmak zor iştir. Hoş geldiniz, hangi daireye geldiniz?\" dersiniz.",
+        "C": "\"Eski kiracı çok sessizdi.\" dersiniz.",
+        "D": "\"Bu binada aidatlar yüksektir, haberiniz olsun.\" dersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-029",
+      "series": "blue",
+      "category": "Hastane",
+      "scenario": "Arkadaşınız küçük bir ameliyat geçirdi. Hastanede ziyaretine gittiniz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bir tanıdığım da aynı ameliyatı olmuştu, çok kötü geçmişti.\" dersiniz.",
+        "B": "Hastane yönetimini eleştirerek ortamı doldurursunuz.",
+        "C": "\"Geçmiş olsun! Nasılsın, canın bir şey istiyor mu?\" deyip onu dinlersiniz.",
+        "D": "Yarım saat kendi sağlık geçmişinizi anlatırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-030",
+      "series": "blue",
+      "category": "Sokakta Yardım",
+      "scenario": "Sokakta bir turist durup çekingen bir Türkçeyle size yol sordu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Yavaş ve net konuşup gerekirse telefondan haritayla gösterirsiniz.",
+        "B": "\"İngilizce bilmiyorum.\" deyip yürürsünüz (soru Türkçeydi).",
+        "C": "Çok hızlı ve uzun bir tarif verip uzaklaşırsınız.",
+        "D": "\"Herkes bana soruyor bugün.\" diye söylenirsiniz."
+      },
+      "correctAnswer": "A",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-031",
+      "series": "blue",
+      "category": "WhatsApp",
+      "scenario": "Aile grubunda kuzeniniz mezuniyet fotoğrafını paylaştı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Görüp geçersiniz, nasıl olsa başkaları yazar.",
+        "B": "Sadece beğeni bırakırsınız.",
+        "C": "\"Bizim zamanımızda mezuniyetler daha güzeldi.\" yazarsınız.",
+        "D": "\"Tebrikler! Yıllarının emeği bu, gurur duyduk. Şimdi sırada ne var?\" yazarsınız."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-032",
+      "series": "blue",
+      "category": "Kafe",
+      "scenario": "Kafede garson siparişinizi karıştırdı ve çok mahcup oldu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Sorun değil, olur böyle şeyler. Doğrusunu bekleyebilirim.\" dersiniz.",
+        "B": "\"İşinizi düzgün yapın.\" dersiniz.",
+        "C": "Yöneticiyi çağırırsınız.",
+        "D": "Yanlış siparişi sessizce yiyip içinizden puan kırarsınız."
+      },
+      "correctAnswer": "A",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-033",
+      "series": "blue",
+      "category": "Toplu Taşıma",
+      "scenario": "Otobüste yanınızdaki yaşlı amca camdan bakıp \"Eskiden buralar hep bağ bahçeydi...\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Her yer betonlaştı, evet.\" deyip kulaklığı takarsınız.",
+        "B": "\"Öyle mi? Siz o zamanları gördünüz demek — nasıldı buralar?\" dersiniz.",
+        "C": "\"Nüfus artışı kaçınılmaz.\" diye teknik açıklama yaparsınız.",
+        "D": "Duymamış gibi yaparsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-034",
+      "series": "blue",
+      "category": "İş Hayatı",
+      "scenario": "İş arkadaşınız yeni gözlüğüyle geldi ve belli ki tedirgin: \"Çok mu farklı oldu?\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Alışırız.\" dersiniz.",
+        "B": "\"Eskisi daha çok yakışıyordu.\" dersiniz.",
+        "C": "\"Yakışmış! Farklı ama iyi bir farklı. Sen memnun musun asıl?\" dersiniz.",
+        "D": "\"Ben fark etmemiştim bile.\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-035",
+      "series": "blue",
+      "category": "Çocuklarla İletişim",
+      "scenario": "Beş yaşındaki yeğeniniz koşarak gelip çizdiği resmi gösterdi. Resimde ne olduğu pek belli değil.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bu ne ki?\" dersiniz.",
+        "B": "\"Eline sağlık, çok renkli olmuş! Anlatsana, burada neler oluyor?\" dersiniz.",
+        "C": "\"Güzel.\" deyip televizyona dönersiniz.",
+        "D": "Nasıl daha iyi çizebileceğini anlatırsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-036",
+      "series": "blue",
+      "category": "Üniversite",
+      "scenario": "Sınavdan çıkan arkadaşınız yıkık: \"Berbat geçti, kesin kaldım.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Ben iyi geçirdim ama.\" dersiniz.",
+        "B": "\"Çalışsaydın.\" dersiniz.",
+        "C": "\"Daha sonuç açıklanmadan karar verme.\" deyip konuyu kapatırsınız.",
+        "D": "\"Off, üzüldüm. Hangi kısım zorladı seni?\" deyip dinlersiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-037",
+      "series": "blue",
+      "category": "Telefon Görüşmesi",
+      "scenario": "Telefonunuz çaldı; arayan kişi yanlış numarayı aradığını fark edip mahcup oldu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Numaraya baksanıza aramadan önce.\" dersiniz.",
+        "B": "\"Hiç sorun değil, iyi günler dilerim.\" dersiniz.",
+        "C": "Sessizce suratına kapatırsınız.",
+        "D": "\"Kimi arıyordunuz, belki tanıyorumdur.\" diye uzatırsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-038",
+      "series": "blue",
+      "category": "Yardım Etme",
+      "scenario": "Yaşlı komşunuz merdivende iki ağır poşetle duraklamış, nefesleniyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Kolay gelsin.\" deyip geçersiniz.",
+        "B": "\"İsterseniz bunları ben çıkarayım, siz rahat yürüyün. Hangi kattaydınız?\" dersiniz.",
+        "C": "Poşetleri sormadan kapıp hızla yukarı çıkarsınız.",
+        "D": "\"Market siparişi verseydiniz, kapıya geliyor artık.\" dersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-039",
+      "series": "blue",
+      "category": "Bilgi Paylaşımı",
+      "scenario": "Bir arkadaşınız, sizin çok iyi bildiğiniz bir konuda temel bir soru sordu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bunu bilmiyor musun cidden?\" dersiniz.",
+        "B": "\"İnternette var, bak.\" dersiniz.",
+        "C": "Basitçe anlatır, sonunda \"Anlatabildim mi, neresi karışık geldi?\" diye sorarsınız.",
+        "D": "Konunun en ileri detaylarından başlayıp kavram yağmuruna tutarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-040",
+      "series": "blue",
+      "category": "Teşekkür Etme",
+      "scenario": "Toplantıda bir iş arkadaşınız, sizin hazırladığınız raporu herkesin önünde övdü.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Aslında çok daha iyi olabilirdi.\" diye kendinizi küçültürsünüz.",
+        "B": "\"Teşekkür ederim, senin geçen haftaki verilerin de çok işime yaradı.\" dersiniz.",
+        "C": "\"Evet, epey uğraştım.\" deyip detaylı emek dökümü yaparsınız.",
+        "D": "Utanıp hiçbir şey demeden önünüze bakarsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-041",
+      "series": "blue",
+      "category": "Small Talk",
+      "scenario": "Sağanak yağmurda durakta beklerken yanınızdaki kişi \"Bugün de tam denk geldi...\" diye söylendi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Şemsiyesiz mi çıktınız? Bu havada?\" dersiniz.",
+        "B": "Gülümseyip \"Hem de nasıl! Umarım akşama diner — uzağa mı gidiyorsunuz?\" dersiniz.",
+        "C": "\"Yağmur toprak için iyidir aslında.\" diye düzeltirsiniz.",
+        "D": "Başınızı sallayıp telefona dönersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-042",
+      "series": "blue",
+      "category": "Günlük Hayat / Sohbet Bitirme",
+      "scenario": "Apartmanınızda çok sevdiğiniz yaşlı bir komşu, her karşılaşmada sizi 20-30 dakikalık sohbete çekiyor. Onu kırmak istemiyorsunuz ama işe geç kalmaya başladınız ve son günlerde ondan kaçar oldunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Kaçmaya devam edersiniz; merdiven seslerini dinleyip zamanlama yaparsınız. Kırmaktansa görünmemek iyidir.",
+        "B": "Bir dahaki sohbette dayanır, dinlersiniz; belki de sizinle konuşmak onun günün tek sohbeti, birkaç dakika geç kalmak dünyanın sonu değil.",
+        "C": "Bir karşılaşmada sıcaklıkla çerçeve kurarsınız: \"Sizinle sohbet etmek günümün en keyifli anlarından; sabahları işe koşturduğum için yarım kalıyor hep. Şöyle yapalım mı: cumartesi sabahları kahvenizi içmeye geleyim, doya doya konuşalım. Hafta içi de selamla yetineceğim, kusuruma bakmayın.\"",
+        "D": "\"Sohbeti çok uzatıyorsunuz, dakikalarca tutuyorsunuz beni.\" diye dürüstçe söylersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-043",
+      "series": "blue",
+      "category": "Aile Yemekleri",
+      "scenario": "Aile yemeğinde dedeniz, defalarca anlattığı askerlik anısına yeniden başladı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Dede, bunu yüz kere anlattın.\" dersiniz.",
+        "B": "Telefonunuza gömülürsünüz.",
+        "C": "Gözlerinizi devirip kardeşinize bakarsınız.",
+        "D": "Dinler, bu kez hiç sorulmamış bir detayı sorarsınız: \"Peki o arkadaşınla sonradan hiç görüşebildin mi?\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-044",
+      "series": "blue",
+      "category": "Kuaför",
+      "scenario": "Kuaförde fönünüzü ilk kez stajyer bir genç yapacak. Elleri titriyor, çok gergin.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Ben ustanın yapmasını istiyorum.\" diye yüksek sesle itiraz edersiniz.",
+        "B": "\"Hiç acele etme, vaktim var. Ne zamandır buradasın?\" diye sohbet açarsınız.",
+        "C": "Aynadan her hareketini kaşlarınızı çatarak izlersiniz.",
+        "D": "Telefonla konuşarak süreci görmezden gelirsiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-045",
+      "series": "blue",
+      "category": "Restoran",
+      "scenario": "Arkadaşınızla yemekteydiniz; hesap gelince cüzdanını unuttuğunu fark etti ve çok utandı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Ben hallederim, dert etme. Bir dahakine sen ısmarlarsın.\" dersiniz.",
+        "B": "\"Yine mi?\" dersiniz (ilk kez oluyor).",
+        "C": "Hesabı öder, akşam ödeme talebini dekontuyla atarsınız.",
+        "D": "\"Garsona söyleyeyim, bulaşık yıkarsın.\" diye takılıp konuyu uzatırsınız."
+      },
+      "correctAnswer": "A",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-046",
+      "series": "blue",
+      "category": "Sosyal Medya",
+      "scenario": "Bir arkadaşınız uzun süredir uğraştığı projesinin bittiğini sosyal medyada duyurdu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Görüp geçersiniz; yüz yüze görünce söylersiniz belki.",
+        "B": "\"Nihayet!\" yazarsınız.",
+        "C": "Özelden yazarsınız: \"Bunu ne kadar istediğini biliyorum, çok sevindim. En zor kısmı neresiydi?\"",
+        "D": "Kendi benzer projenizi yorum olarak paylaşırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-047",
+      "series": "blue",
+      "category": "Yardım İsteme",
+      "scenario": "Hafta sonu taşınıyorsunuz ve yardıma ihtiyacınız var. Arkadaşınıza yazacaksınız.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Cumartesi boş musun?\" diye yazar, ne için olduğunu söylemezsiniz.",
+        "B": "\"Kimse bana yardım etmez zaten ama sorayım dedim...\" diye yazarsınız.",
+        "C": "Hiç istemezsiniz; tek başınıza taşınıp bir hafta bel ağrısı çekersiniz.",
+        "D": "\"Cumartesi taşınıyorum, öğlen iki saatlik bir el gerekiyor. Müsaitsen çok sevinirim — akşam pizzalar benden!\" diye yazarsınız."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-048",
+      "series": "blue",
+      "category": "Yeni Tanışma",
+      "scenario": "Az önce tanıştığınız kişi mahcup bir şekilde \"Kusura bakmayın, isminizi unuttum.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Daha beş dakika oldu...\" dersiniz.",
+        "B": "Gülümseyip \"Hiç dert etmeyin, ben de isimlerde çok kötüyümdür — ben Deniz.\" dersiniz.",
+        "C": "\"Tahmin edin.\" dersiniz.",
+        "D": "Kırıldığınızı belli edecek şekilde duraksarsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-049",
+      "series": "blue",
+      "category": "Sohbet Bitirme",
+      "scenario": "Telefonda arkadaşınızla konuşurken diğer hattan anneniz aradı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Annenizi reddedip sonra aramayı unutursunuz.",
+        "B": "\"Bir saniye.\" deyip arkadaşınızı beş dakika beklemeye alırsınız.",
+        "C": "\"Annem arıyor, ona bir bakayım — kaldığımız yerden akşam devam ederiz, olur mu?\" dersiniz.",
+        "D": "İki hattı da idare etmeye çalışıp ikisini de yarım dinlersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-050",
+      "series": "blue",
+      "category": "Yaşlılarla İletişim",
+      "scenario": "Yaşlı komşunuz kapınızı çaldı: \"Evladım, torunum fotoğraf atmış, açamıyorum bir türlü.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Telefonu alıp hızla açar, verip kapıyı kapatırsınız.",
+        "B": "\"Bu telefonlar size göre değil.\" dersiniz.",
+        "C": "\"Torununuz mu göndermiş? Gelin birlikte açalım, isterseniz nasıl yapıldığını da yavaşça göstereyim.\" dersiniz.",
+        "D": "\"Çocuklarınıza sorun, ben yoğunum şimdi.\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-051",
+      "series": "blue",
+      "category": "Spor / Hobiler",
+      "scenario": "Arkadaşınız ilk kez 5 kilometre koştuğunu heyecanla anlattı. Siz yıllardır maraton koşuyorsunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"5 kilometre mi? Ben ısınmada onu koşuyorum.\" dersiniz.",
+        "B": "\"Süper! İlk 5K unutulmaz — bitiş çizgisinde ne hissettin?\" dersiniz.",
+        "C": "Hemen bir antrenman programı yazıp önüne koyarsınız.",
+        "D": "\"Ayakkabın yanlış ama.\" diyerek ekipman eleştirisine geçersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-052",
+      "series": "blue",
+      "category": "İş Hayatı",
+      "scenario": "Toplantıda, dün sizin öne sürdüğünüz fikri bir iş arkadaşınız kendi fikriymiş gibi sundu. Yöneticiler beğendi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Toplantıda \"O fikir benimdi.\" diye söz kesersiniz.",
+        "B": "\"Evet, dün bunu birlikte konuşurken ben de şu eklemeyi önermiştim...\" diyerek katkınızı doğal biçimde görünür kılarsınız.",
+        "C": "Toplantıdan sonra durumu herkese tek tek anlatırsınız.",
+        "D": "Sessiz kalır, bir daha fikirlerinizi kimseyle paylaşmazsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-053",
+      "series": "blue",
+      "category": "Sınır Koyma",
+      "scenario": "Bir arkadaşınız borç para istedi. Vermek istemiyorsunuz; geçmişte benzer bir konuda aranız açılmıştı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Param var ama sana veremem.\" dersiniz.",
+        "B": "\"Bakayım, dönerim.\" deyip bir daha konuyu açmazsınız.",
+        "C": "\"Şu an borç veremeyeceğim, kusura bakma. Ama başka nasıl destek olabilirim, birlikte düşünelim mi?\" dersiniz.",
+        "D": "Telefonu birkaç gün açmazsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-054",
+      "series": "blue",
+      "category": "Grup Sohbeti",
+      "scenario": "Arkadaş grubunuz WhatsApp'ta tatil planlıyor. Herkesin heyecanla onayladığı tarih size uymuyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bana uymaz ama siz gidin.\" yazıp gruba küsmüş gibi sessizleşirsiniz.",
+        "B": "Hiçbir şey yazmaz, son gün gelemeyeceğinizi söylersiniz.",
+        "C": "Uymadığı halde \"olur\" yazar, sonra iptal edersiniz.",
+        "D": "\"Ben o hafta yokum maalesef — bir hafta kaydırma şansımız var mı? Yoksa siz gidin, ben sonrakine yetişirim.\" yazarsınız."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-055",
+      "series": "blue",
+      "category": "Komşuluk",
+      "scenario": "Alt komşunuzun köpeği birkaç gecedir saatlerce havlıyor ve uyuyamıyorsunuz. Komşuyla aranız iyi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Önce konuşmadan yönetime şikâyet dilekçesi verirsiniz.",
+        "B": "Gece yarısı duvara vurursunuz.",
+        "C": "Gündüz kapısını çalıp \"Kolay gelsin, bir şey danışacaktım — geceleri köpek epey havlıyor, bir şey mi oldu acaba, siz de fark ettiniz mi?\" dersiniz.",
+        "D": "Apartman grubuna imalı bir mesaj yazarsınız: \"Bazıları hayvan bakmayı bilmiyor.\""
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-056",
+      "series": "blue",
+      "category": "Tartışma Yönetimi",
+      "scenario": "Aynı projedeki arkadaşınız teslimleri sürekli geciktiriyor ve yük size kalıyor. Bu üçüncü oldu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Senin yüzünden geceleri çalışıyorum!\" diye patlarsınız.",
+        "B": "\"Son üç teslimde son gün işler bana kaldı ve epey zorlandım. Nasıl bir bölüşüm ikimize de uyar, konuşalım mı?\" dersiniz.",
+        "C": "Hiçbir şey demeden işleri yapmaya devam eder, içten içe biriktirirsiniz.",
+        "D": "Durumu önce yöneticinize taşırsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-057",
+      "series": "blue",
+      "category": "Arkadaşlık",
+      "scenario": "Israrla önerdiğiniz restorana giden arkadaşınız \"Açıkçası hiç beğenmedik.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Siz anlamamışsınızdır, herkes bayılıyor oraya.\" dersiniz.",
+        "B": "\"Bir daha size bir şey önermem o zaman.\" dersiniz.",
+        "C": "\"Ah, üzüldüm! Ne eksikti sizce? Zevkinizi öğreneyim ki bir dahakinde tam isabet önereyim.\" dersiniz.",
+        "D": "\"Ben gittiğimde iyiydi; kötü güne denk gelmişsiniz.\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-058",
+      "series": "blue",
+      "category": "Eski Arkadaşlar",
+      "scenario": "Aylardır sesi çıkmayan bir arkadaşınız, yine sadece ihtiyacı olunca yazdı: \"Naber! Bu arada senin o tanıdığın hâlâ orada mı çalışıyor?\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Mesajı görüldüde bırakırsınız.",
+        "B": "\"Sadece işin düşünce yazıyorsun.\" diye çıkışırsınız.",
+        "C": "İstediğini yapar, içinize atarsınız.",
+        "D": "Yardımcı olur, sonra eklersiniz: \"Bu arada özledim seni — yakında bir kahve içelim mi, işler dışında da konuşalım.\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-059",
+      "series": "blue",
+      "category": "Düğün",
+      "scenario": "Düğünde yemek servisi bir saattir gecikti. Masanızdakiler homurdanmaya başladı, gerginlik büyüyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Homurdanmaya katılıp organizasyon firmasını masaya şikâyet edersiniz.",
+        "B": "\"Ben mutfağa gidip soruyorum!\" diye kalkarsınız.",
+        "C": "\"Belli ki yoğunluk var, birazdan gelir. Bu arada siz gelin tarafı mısınız — nereden tanışıyorsunuz?\" diyerek sohbeti başka yöne taşırsınız.",
+        "D": "Telefondan yemek siparişi verip masaya duyurursunuz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-060",
+      "series": "blue",
+      "category": "Cenaze / Taziye",
+      "scenario": "Yakın bir arkadaşınız babasını kaybetti. Taziyeye gittiniz ama ne diyeceğinizi bilemiyorsunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"En azından uzun bir ömür sürdü.\" dersiniz.",
+        "B": "\"Zamanla geçer, güçlü ol.\" deyip hemen havadan sudan konuya geçersiniz.",
+        "C": "Ne diyeceğinizi bilemediğiniz için gitmez, mesaj atarsınız.",
+        "D": "Sarılıp \"Çok üzgünüm, buradayım.\" dersiniz; konuşmak isterse dinler, istemezse yanında sessizce oturursunuz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-061",
+      "series": "blue",
+      "category": "Patron",
+      "scenario": "Pazar akşamı patronunuzdan iş mesajı geldi: \"Müsait olunca şu dosyaya bakar mısın?\" Acil görünmüyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Hemen bilgisayarı açıp gece yarısına kadar çalışırsınız.",
+        "B": "Pazartesi öğlene kadar hiç cevap vermezsiniz.",
+        "C": "\"Pazar günü de mi çalışacağız?\" diye cevap yazarsınız.",
+        "D": "Kısaca \"Gördüm, yarın sabah ilk iş bakıp dönüş yapacağım.\" yazarsınız."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-062",
+      "series": "blue",
+      "category": "Müşteri İlişkisi",
+      "scenario": "Çalıştığınız yerde bir müşteri, sizin hatanız olmayan bir konuda sesini yükseltti.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bana bağırmayın, benim suçum değil.\" dersiniz.",
+        "B": "Siz de ses tonunuzu yükseltirsiniz.",
+        "C": "\"Çok haklısınız, insanın canı sıkılıyor böyle olunca. Gelin şunu birlikte çözelim.\" deyip çözüme odaklanırsınız.",
+        "D": "\"Prosedür böyle, yapacak bir şey yok.\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-063",
+      "series": "blue",
+      "category": "Öğretmen / Veli",
+      "scenario": "Veli toplantısında öğretmen, çocuğunuzun derste arkadaşlarını rahatsız ettiğini söyledi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bizim çocuk evde öyle yapmaz, karıştırıyorsunuz.\" dersiniz.",
+        "B": "\"Sınıf kalabalık, siz yetişemiyorsunuz demek ki.\" dersiniz.",
+        "C": "Eve gidip detay sormadan çocuğa ceza yağdırırsınız.",
+        "D": "\"Bunu duymak kolay değil ama iyi ki söylediniz. Genelde hangi durumlarda oluyor? Evde biz ne yapabiliriz?\" dersiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-064",
+      "series": "blue",
+      "category": "Üniversite",
+      "scenario": "Dört kişilik grup ödevinde bir arkadaşınız hiçbir işe katılmıyor. Teslime bir hafta var.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Onun kısmını da yapar, hiç ses çıkarmazsınız.",
+        "B": "Ona hiç söylemeden hocaya gidip isim verirsiniz.",
+        "C": "Özelden yazarsınız: \"Senden ses alamadık, her şey yolunda mı? Payına düşen şu iki başlık — çarşambaya yetiştirebilir misin?\"",
+        "D": "Grup mesajına \"Bazıları hiçbir şey yapmıyor ama neyse.\" diye genel bir laf bırakırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-065",
+      "series": "blue",
+      "category": "İlk Buluşma",
+      "scenario": "İlk buluşmada karşınızdaki kişi üçüncü kez eski sevgilisinden bahsetti.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Eski sevgilinle mi buluşsaydın?\" diye iğnelersiniz.",
+        "B": "Skoru eşitlemek için siz de eski ilişkilerinizi anlatırsınız.",
+        "C": "Dinler, sonra rotayı nazikçe bugüne çevirirsiniz: \"Seni epey etkilemiş bir dönem olmuş. Peki şu an hayatında seni ne heyecanlandırıyor?\"",
+        "D": "Açıklama yapmadan buluşmayı erkenden bitirirsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-066",
+      "series": "blue",
+      "category": "Flört / Mesajlaşma",
+      "scenario": "Hoşlandığınız kişi mesajınıza altı saat sonra tek kelimelik bir cevap verdi: \"Olabilir.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Altı saatte mi cevap veriliyor?\" diye hesap sorarsınız.",
+        "B": "Siz de inatla sekiz saat bekleyip tek kelime yazarsınız.",
+        "C": "Arka arkaya mesaj atarsınız: \"Orada mısın?\", \"Bir şey mi oldu?\", \"?\"",
+        "D": "Gününüze devam eder, planı netleştiren tek bir mesaj yazarsınız: \"Cumartesi 15.00, sahildeki kafe — uyar mı?\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-067",
+      "series": "blue",
+      "category": "Evlilik",
+      "scenario": "Çok yorucu bir günün akşamında eşiniz gününü ayrıntılarıyla anlatmaya başladı. Gözleriniz kapanıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Hı hı\" diyerek uyuklamaya devam edersiniz, yakalanana kadar.",
+        "B": "\"Çok yoruldum, sonra anlatır mısın?\" deyip odadan çıkarsınız.",
+        "C": "\"Bunu gerçekten dinlemek istiyorum ama şu an ayakta uyuyorum. Yarın kahvaltıda baştan anlatır mısın? Söz, tam dinleyeceğim.\" dersiniz.",
+        "D": "\"Kısaca özetlesen?\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-068",
+      "series": "blue",
+      "category": "Kırgınlık",
+      "scenario": "Arkadaşınız, geçen hafta söylediğiniz bir söze kırıldığını söyledi. Size göre söz gayet masumdu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Alınacak ne var bunda, çok hassassın.\" dersiniz.",
+        "B": "\"Ben öyle demek istemedim, sen yanlış anlamışsın.\" deyip konuyu kapatırsınız.",
+        "C": "\"Kırdıysam üzgünüm ama...\" diye başlayan şartlı bir özür dilersiniz.",
+        "D": "\"Öyle hissettirdiysem gerçekten üzgünüm. Hangi kısmı böyle geldi, anlatır mısın? Anlamak istiyorum.\" dersiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-069",
+      "series": "blue",
+      "category": "Özür Dileme",
+      "scenario": "Arkadaşınızla buluşmaya 40 dakika geç kaldınız. Sizi soğuk karşıladı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Trafik felaketti, benim suçum yok.\" diye açıklamayla başlarsınız.",
+        "B": "\"Sen de geçen ay geç kalmıştın ama.\" dersiniz.",
+        "C": "\"Çok özür dilerim; bu kadar bekletmek hiç hoş değil, kırgınlığında haklısın. En azından yoldayken haber vermeliydim.\" dersiniz.",
+        "D": "\"Geldim ya sonuçta.\" diye espriyle geçiştirirsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-070",
+      "series": "blue",
+      "category": "Market",
+      "scenario": "Kasada ödeme yaparken kartınız sorun çıkardı. Arkanızdaki kişi yüksek sesle iç çekip söylenmeye başladı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Dönüp \"Biraz sabredin!\" diye çıkışırsınız.",
+        "B": "Panikle üst üste özür diler, elleriniz iyice birbirine dolanır.",
+        "C": "Sakin kalır, dönüp \"Kusura bakmayın, bir dakikanızı alacağım.\" der, işleminize odaklanırsınız.",
+        "D": "Kasiyere \"Arkadaki beyefendiyi duyuyor musunuz?\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-071",
+      "series": "blue",
+      "category": "Spor Salonu",
+      "scenario": "Kullanmak istediğiniz alet 20 dakikadır aynı kişide; setler arasında uzun uzun telefonuyla ilgileniyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Başında dikilip anlamlı anlamlı bakarsınız.",
+        "B": "\"Kaç setiniz kaldı? İsterseniz aralarda dönüşümlü kullanalım.\" dersiniz.",
+        "C": "\"Telefona bakacaksanız evde bakın.\" dersiniz.",
+        "D": "Vazgeçip o hareketi bugün es geçersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-072",
+      "series": "blue",
+      "category": "Hobiler",
+      "scenario": "Yeni başladığınız maket hobinizi anlattığınız arkadaşınız \"Bu yaştan sonra oyuncakla mı uğraşıyorsun?\" diye güldü.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Utanıp \"Şaka şaka, öylesine bakınıyordum.\" dersiniz.",
+        "B": "\"Senin dizi maratonların daha mı verimli?\" diye karşılık verirsiniz.",
+        "C": "Gülümseyip \"Bana çok iyi geliyor; elimle bir şey üretmek kafamı dinlendiriyor. Bitmiş bir tanesini görsen fikrin değişebilir.\" dersiniz.",
+        "D": "Bir daha ona kendinizle ilgili hiçbir şey anlatmazsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-073",
+      "series": "blue",
+      "category": "Tatil",
+      "scenario": "Partnerinizin seçtiği tatil oteli beklentinin çok altında çıktı. Partneriniz üzgün ve kendini suçlu hissediyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Sana bırakılırsa böyle oluyor işte.\" dersiniz.",
+        "B": "\"Bir dahaki sefere ben seçerim.\" dersiniz.",
+        "C": "Bir şey demezsiniz ama tatil boyunca her aksaklıkta derin bir nefes alırsınız.",
+        "D": "\"O fotoğraflar herkesi yanıltır"
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-074",
+      "series": "blue",
+      "category": "İş Hayatı / Empati",
+      "scenario": "Şirkette küçülme oldu; yakın arkadaşınız işten çıkarıldı, siz kaldınız. Akşam sizi aradı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Sen zaten daha iyisini bulursun, dert etme.\" diyerek hızla moral vermeye çalışırsınız.",
+        "B": "Suçluluk hissettiğiniz için konuyu kısa kesip görüşmeyi azaltırsınız.",
+        "C": "\"Çok haksızlık, ben de her an gidebilirim.\" diyerek kendi kaygınızı anlatmaya başlarsınız.",
+        "D": "\"Bu çok zor, gerçekten üzgünüm. Şu an nasılsın — içini dökmek mi istersin, kafanı mı dağıtalım?\" deyip onun ihtiyacına göre ilerlersiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-075",
+      "series": "blue",
+      "category": "Geri Bildirim",
+      "scenario": "Arkadaşınızın önemli bir sunumunu izlediniz; içerik iyiydi ama sunum dağınıktı. Çıkışta heyecanla sordu: \"Nasıldı?\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Harikaydı!\" deyip geçersiniz; morali bozulmasın.",
+        "B": "\"Açık konuşayım mı? Epey dağınıktı.\" diye dürüstçe söylersiniz.",
+        "C": "\"İçerik çok sağlamdı, özellikle giriş kısmı. Akışta birkaç yerde koptum ama — istersen üzerinden beraber geçelim?\" dersiniz.",
+        "D": "\"Bence sunum eğitimi almalısın.\" diye çözüm önerirsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 3
+    },
+    {
+      "id": "MK-076",
+      "series": "blue",
+      "category": "Grup Dinamiği",
+      "scenario": "Arkadaş grubunda biri, masadaki daha sessiz bir arkadaşa küçümseyici bir laf etti. Sessiz arkadaş bozuldu ama bir şey demedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Ortam gerilmesin diye gülümseyip konuyu değiştirirsiniz.",
+        "B": "Laf edeni herkesin önünde azarlarsınız.",
+        "C": "O an \"Bence haksızlık ettin, ben onun ne demek istediğini anladım.\" diye sakin bir cümleyle dengeyi kurar, sonra sessiz arkadaşa söz alanı açarsınız.",
+        "D": "Sonradan sessiz arkadaşa özelden \"Boş ver onu.\" yazarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-077",
+      "series": "blue",
+      "category": "Aile Yemekleri",
+      "scenario": "Bayram yemeğinde yaşlı bir akrabanız, sizin hiç katılmadığınız keskin bir görüşü masaya ilan etti. Gözler size döndü.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Nokta atışı karşı argümanlarla masada münazara başlatırsınız.",
+        "B": "\"Ben farklı düşünüyorum ama bu konuyu yemekte açmayalım — amca, sen asıl şu bahçe işini anlat, ne oldu o fidanlar?\" diyerek görüşünüzü saklamadan zemini değiştirirsiniz.",
+        "C": "İçinizden sayarak susarsınız, arabada patlarsınız.",
+        "D": "\"Sizin kuşak hep böyle düşünüyor zaten.\" dersiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-078",
+      "series": "blue",
+      "category": "Arkadaşlık / Dinleme",
+      "scenario": "Arkadaşınız aylardır partnerinden şikâyet ediyor ama ayrılmıyor. Bugün yine aynı konuyu açtı. Siz artık yorulmaya başladınız.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Ya ayrıl ya da şikâyet etme artık.\" dersiniz.",
+        "B": "Her seferki gibi dinler, her seferki tavsiyeleri tekrarlarsınız.",
+        "C": "\"Madem mutsuzsun, ben olsam çoktan giderdim.\" dersiniz.",
+        "D": "\"Seni aylardır dinliyorum ve hep yanındayım. Ama merak ediyorum: benden ne duymak sana iyi geliyor — akıl mı, sadece kulak mı?\" diye rolünüzü netleştirirsiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-079",
+      "series": "blue",
+      "category": "İş Hayatı / Duygu Yönetimi",
+      "scenario": "Ofiste yan masadaki iş arkadaşınız telefonu kapattıktan sonra sessizce ağlamaya başladı. Çok yakın değilsiniz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Görmemiş gibi yapıp mahremiyetine saygı gösterirsiniz.",
+        "B": "\"Ne oldu, kim aradı, ne dedi?\" diye detay sorarsınız.",
+        "C": "Yanına bir bardak su bırakıp kısık sesle \"İstersen buradayım, istersen seni yalnız bırakayım.\" der, kararı ona bırakırsınız.",
+        "D": "Ortamı yumuşatmak için espri yaparsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-080",
+      "series": "blue",
+      "category": "Komşuluk / Sınır",
+      "scenario": "Komşunuz bu ay üçüncü kez sizin park yerinize park etti. İlk seferinde nazikçe rica etmiştiniz, \"pardon, bir kereliğine\" demişti.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Arabasının önüne park edip çıkamaz hale getirirsiniz.",
+        "B": "Sileceğine sert bir not bırakırsınız.",
+        "C": "Yönetime şikâyet edersiniz, kendisiyle bir daha konuşmadan.",
+        "D": "Yüz yüze, sakin ama net konuşursunuz: \"Geçen rica etmiştim ama devam ediyor. Benim için sorun; bugünden sonra kendi yerimi kullanmam gerekiyor. Sizin yer doluysa çözümünü beraber bulalım.\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-081",
+      "series": "blue",
+      "category": "Arkadaşlık / Ebeveynlik",
+      "scenario": "Arkadaşınız çocuğuyla size misafir geldi. Çocuk sehpadaki hediyelik vazoyu kırdı; arkadaşınız \"Aman, çocuktur.\" deyip geçti. Vazo sizin için değerliydi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Önemli değil.\" deyip içinize atarsınız, ama misafirlik boyunca soğursunuz.",
+        "B": "\"Çocuğuna sahip çıksana!\" diye o an patlarsınız.",
+        "C": "O an çocuğu rahatlatır, uygun bir anda arkadaşınıza sakin söylersiniz: \"Kaza tabii, çocuğa kızmıyorum. Ama o vazo benim için kıymetliydi; 'çocuktur' deyip geçilmesi biraz koydu açıkçası.\"",
+        "D": "Sonraki davetlere çocuğu dahil etmezsiniz, sebep söylemeden."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-082",
+      "series": "blue",
+      "category": "Mentorluk / İş",
+      "scenario": "Mentorluk yaptığınız stajyer bir hata yapmış ve üstünü örtmüş. Siz tesadüfen fark ettiniz; henüz kimse bilmiyor, hata telafi edilebilir durumda.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Hatayı sessizce kendiniz düzeltir, hiç söz etmezsiniz.",
+        "B": "Durumu doğrudan yöneticiye raporlarsınız.",
+        "C": "Baş başa konuşursunuz: \"Şu dosyada bir sorun gördüm, birlikte bakalım mı? Bu arada — hatalar olur, önemli olan erken söylemek; bana her zaman gelebilirsin.\"",
+        "D": "Ekip toplantısında isim vermeden \"Bazı arkadaşlar hatalarını saklıyor.\" dersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-083",
+      "series": "blue",
+      "category": "Arkadaşlık / Zor Konu",
+      "scenario": "Arkadaşınız \"kısa sürede yüksek kazanç\" vadeden bir sisteme para yatırmış; gözleri parlayarak size de katılmanızı öneriyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bu düpedüz dolandırıcılık, nasıl kandın buna?\" dersiniz.",
+        "B": "Kırılmasın diye \"Düşüneyim.\" deyip konuyu sonsuza dek ertelersiniz.",
+        "C": "\"Ben katılmayacağım; bu tarz vaatler beni hep tedirgin eder. Sen de paranın tamamını riske atmadan bir daha araştırsan? İstersen beraber bakalım.\" dersiniz.",
+        "D": "Az bir miktarla katılırsınız, arkadaşlık bozulmasın diye."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-084",
+      "series": "blue",
+      "category": "Hastane / Yabancıyla Empati",
+      "scenario": "Hastane bekleme salonundasınız. Yanınızdaki yabancı, elleri titreyerek \"Eşimin sonuçlarını bekliyorum, çok korkuyorum.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Merak etmeyin, kesin iyi çıkar.\" dersiniz.",
+        "B": "\"Bekleme en zor kısmı, çok iyi anlıyorum. İsterseniz beklerken biraz konuşalım — ne zamandır buradasınız?\" dersiniz.",
+        "C": "Kendi hastane anılarınızı ayrıntısıyla anlatırsınız.",
+        "D": "Başınızı sallayıp telefonunuza dönersiniz; sonuçta yabancısınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-085",
+      "series": "blue",
+      "category": "Eski Arkadaşlar",
+      "scenario": "Yıllar sonra buluştuğunuz eski arkadaşınız iki saattir yalnızca lise anılarını anlatıyor. Güzel; ama siz artık başka biri oldunuz ve bugününüzü de konuşmak istiyorsunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Anılara eşlik etmeye devam edersiniz; belli ki onun için değerli.",
+        "B": "\"Hep geçmişi mi konuşacağız?\" dersiniz.",
+        "C": "Bir anının üzerinden bugüne köprü kurarsınız: \"O günlerde hep gitar çalardın — hâlâ çalıyor musun? Ben de son yıllarda bambaşka şeylere merak sardım, anlatayım mı?\"",
+        "D": "Buluşmayı erken bitirip \"eski dostluklar eskide kalmalı\" diye düşünürsünüz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-086",
+      "series": "blue",
+      "category": "Düğün / Sitem Karşılama",
+      "scenario": "Düğününüz küçük ve sınırlıydı. Davet etmediğiniz bir tanıdık sitemle karşınıza çıktı: \"Demek biz o kadar değerli değiliz.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Liste bende değildi, ailem yaptı.\" diye topu başkasına atarsınız.",
+        "B": "\"Herkesi çağıramazdık, alınacak bir şey yok.\" dersiniz.",
+        "C": "Uzun uzun bütçe ve kontenjan savunması yaparsınız.",
+        "D": "\"Kırıldığını duyuyorum ve bunu önemsiyorum. Liste bizi de çok zorladı; seninle ilgisi yok. Yakında baş başa bir yemekle kutlayalım mı?\" dersiniz."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-087",
+      "series": "blue",
+      "category": "Taksi",
+      "scenario": "Taksidesiniz. Şoför \"Ben kestirmeden giderim.\" diye uygulamadaki rotadan çıktı; siz bu yolun daha uzun olduğunu biliyorsunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Sessiz kalır, fazla ücreti içinize atarsınız.",
+        "B": "\"Beni kazıklamaya mı çalışıyorsunuz?\" dersiniz.",
+        "C": "\"Usta, ben genelde şu yoldan gidiyorum, bu saatte daha rahat oluyor — oradan alalım mı?\" diyerek tercihi sakin ve gerekçeli söylersiniz.",
+        "D": "İnip başka taksi çağırırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-088",
+      "series": "blue",
+      "category": "Arkadaşlık / Endişe Paylaşma",
+      "scenario": "Yakın arkadaşınızın sigarası son aylarda belirgin arttı; kendisi bunu \"Stres atıyorum işte.\" diye espriyle geçiştiriyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Her görüşmede sigaranın zararlarını anlatan bir konuşma yaparsınız.",
+        "B": "Espriye espriyle karşılık verip konuyu hiç ciddiye almazsınız.",
+        "C": "Paketini saklar, sigarasını söndürür, fiili müdahale edersiniz.",
+        "D": "Baş başayken bir kez, net söylersiniz: \"Şaka bir yana, artışı fark ediyorum ve seni önemsediğim için söylüyorum. Stres eden ne varsa onu konuşalım istersen — ben buradayım.\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-089",
+      "series": "blue",
+      "category": "Grup Sohbeti / Kendini Savunma",
+      "scenario": "Kalabalık bir arkadaş ortamında biri, sizin hassas olduğunuz bir konuda \"şaka\" yaptı. Herkes güldü; siz kırıldınız.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Siz de gülersiniz; sonra günlerce içinizde taşırsınız.",
+        "B": "O an ortamı dondurup uzun bir hesaplaşma başlatırsınız.",
+        "C": "O an kısaca \"Bu bana pek komik gelmedi.\" der, ısrar ederse sonrasında baş başa konuşursunuz: \"O konu benim için hassas; bir daha malzeme yapmamanı isterim.\"",
+        "D": "O günden sonra o kişinin olduğu buluşmalara gitmezsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-090",
+      "series": "blue",
+      "category": "Patron / Zor Durum",
+      "scenario": "Müşteri toplantısındasınız. Patronunuz, projeyle ilgili yanlış olduğunu kesin bildiğiniz bir bilgiyi müşteriye aktarıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Pardon, o bilgi yanlış.\" diye anında düzeltirsiniz.",
+        "B": "Toplantı boyunca susar, yanlış bilgi müşteriyle sözleşmeye girer.",
+        "C": "Söz alıp yumuşak bir köprü kurarsınız: \"Bu noktada güncel veriyi de ekleyeyim; son raporda şu şekilde görünüyor.\" Toplantı sonrası patronla baş başa netleştirirsiniz.",
+        "D": "Toplantıdan sonra müşteriye gizlice doğrusunu yazarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-091",
+      "series": "blue",
+      "category": "İş / Dürüstlük",
+      "scenario": "Eski bir iş arkadaşınız, başvurduğu iş için sizi referans göstermek istiyor. Ancak birlikte çalışırken performansı sizi hiç tatmin etmemişti.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Kabul eder, arandığınızda ona duymadığı övgüler dizersiniz.",
+        "B": "Kabul eder, arandığınızda tüm eksiklerini tek tek sayarsınız.",
+        "C": "\"Referans konusunda sana karşı dürüst olmam gerek: birlikte çalıştığımız dönemde bazı konularda zorlanmıştık, bunu sorulursa yumuşatamam. İstersen şu güçlü yanlarını anlatabileceğim biri olarak değil, o dönemi iyi bilen başka birini göstermen daha güçlü olur.\" dersiniz.",
+        "D": "\"Tabii!\" deyip aranınca telefonu açmazsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-092",
+      "series": "blue",
+      "category": "Aile / Sır Taşıma",
+      "scenario": "Kardeşiniz, aileden habersiz aldığı büyük bir kararı (şehir değiştirme) önce size açtı: \"Şimdilik aramızda kalsın.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bana yük olma, git ailene söyle.\" dersiniz.",
+        "B": "İyi niyetle anne babanıza \"hazırlık olsun\" diye çıtlatırsınız.",
+        "C": "\"Bana güvenip anlattığın için sağ ol, aramızda kalır. Peki ailene söylemeyi nasıl planlıyorsun — istersen o konuşmayı birlikte çalışalım.\" dersiniz.",
+        "D": "Kararın risklerini sıralayıp vazgeçirmeye çalışırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-093",
+      "series": "blue",
+      "category": "Yeni Tanışma / Sınır",
+      "scenario": "Bir davette yeni tanıştığınız kişi, sohbetin beşinci dakikasında \"Peki maaşın ne kadar?\" diye sordu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Utandığınız için gerçek rakamı söylersiniz.",
+        "B": "\"Bu ne biçim soru?\" diye ters bir cevap verirsiniz.",
+        "C": "Gülümseyip \"O konuyu muhasebecimle bile zor konuşuyorum!\" diye esprili bir kalkanla geçer, sohbeti başka yöne taşırsınız: \"Siz ne iş yapıyorsunuz, keyif alıyor musunuz?\"",
+        "D": "Abartılı yüksek bir rakam söyleyip tepkisini izlersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-094",
+      "series": "blue",
+      "category": "Arkadaşlık / Tarafsızlık",
+      "scenario": "Çift olan iki yakın arkadaşınız kavga etmiş. İkisi de ayrı ayrı sizi arayıp kendi tarafının haklılığını onaylatmaya çalışıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "İkisine de ayrı ayrı \"haklısın\" dersiniz; mutlu olsunlar.",
+        "B": "Gerçekten haklı bulduğunuz tarafı açıkça desteklersiniz.",
+        "C": "İkisine de aynı cümleyi kurarsınız: \"İkinizi de çok seviyorum, o yüzden hakem olamam. Ama seni dinlerim ve şunu görüyorum: bu konuşmayı benimle değil, birbirinizle yapmanız gerekiyor.\"",
+        "D": "İkisinin de telefonunu açmayıp fırtına dinene kadar kaybolursunuz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-095",
+      "series": "blue",
+      "category": "Gençlerle İletişim",
+      "scenario": "Üniversiteli yeğeniniz size açıldı: \"Okulu bırakmayı düşünüyorum. Ama aileme söyleme, önce senin fikrini almak istedim.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Sakın ha! Hayatını mahvedersin.\" diye paniğe kapılırsınız.",
+        "B": "\"Senin hayatın, ne istersen yap.\" deyip topu tamamen ona atarsınız.",
+        "C": "\"Gençsin, geçer bu hevesler.\" diye küçümsersiniz.",
+        "D": "\"Bana açtığın için mutlu oldum. Bırakma fikri ne zamandır var — seni asıl yoran ne: bölüm mü, okul mu, başka bir şey mi?\" diye kararın altındakini anlamaya çalışırsınız."
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-096",
+      "series": "blue",
+      "category": "Toplu Taşıma / Yabancıya Sınır",
+      "scenario": "Metroda yanınızdaki kişi telefonundan yüksek sesle, hoparlörden video izliyor. Vagon rahatsız ama kimse bir şey demiyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Sesli iç çekip başınızı sallayarak dolaylı mesaj verirsiniz.",
+        "B": "\"Kulaklık diye bir şey icat edildi!\" diye yüksek sesle söylenirsiniz.",
+        "C": "Kendi telefonunuzdan daha yüksek sesle bir şey açarsınız.",
+        "D": "Sakin ve kısa bir ricayla dönersiniz: \"Pardon, ses biraz yüksek geliyor — kısabilir misiniz rica etsem?\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-097",
+      "series": "blue",
+      "category": "Hediye / İncelik",
+      "scenario": "Özenle seçtiğiniz doğum günü hediyesini açan arkadaşınızın yüzünden beğenmediği anlaşıldı; \"Aa... çok düşüncelisin.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Beğenmedin, belli.\" diye üstüne gidersiniz.",
+        "B": "\"Fişi duruyor, değiştirebilirsin — önemli olan senin kullanman, benim gururum değil.\" diye rahat bir kapı açarsınız.",
+        "C": "Bozulur, gecenin geri kalanında mesafeli davranırsınız.",
+        "D": "\"Onu bulmak için üç mağaza gezdim.\" diye emeğinizi hatırlatırsınız."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-098",
+      "series": "blue",
+      "category": "Sohbet Dinamiği",
+      "scenario": "Bir toplulukta ne zaman söz alsanız aynı kişi sözünüzü kesiyor. Az önce üçüncü kez oldu.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Siz de onun sözünü keserek dengeyi kurarsınız.",
+        "B": "Konuşmayı tamamen bırakır, toplantıyı sessiz geçirirsiniz.",
+        "C": "Kesildiği anda sakin ve gülümseyerek \"Bir saniye, cümlemi tamamlayayım — sonra seni dinlemek istiyorum.\" der, kaldığınız yerden devam edersiniz.",
+        "D": "Toplantıdan sonra herkese onun ne kadar saygısız olduğunu anlatırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-099",
+      "series": "blue",
+      "category": "Dürüstlük / Yaratıcı Emek",
+      "scenario": "Arkadaşınız iki yılda yazdığı roman taslağını size okuttu. Vasat buldunuz. \"Yayınevine göndermeden önce gerçek fikrini istiyorum.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Bence harika, hemen gönder.\" dersiniz; hayali onun, kırmaya hakkınız yok.",
+        "B": "\"Açıkçası vasat buldum, bu haliyle basılmaz.\" diye net konuşursunuz; gerçek fikir istedi.",
+        "C": "Önce somut güçlü yanları söyler, sonra eklersiniz: \"Şu iki bölümde koptum ve nedenlerini yazdım. Ben tek okuyucuyum ama; birkaç kişiye daha okutup ortak noktaları görmek daha adil olur.\"",
+        "D": "\"Ben romandan anlamam.\" diye topu tamamen dışarı atarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-100",
+      "series": "blue",
+      "category": "Yas / İş Ortamı",
+      "scenario": "İş arkadaşınız annesini kaybettikten iki hafta sonra işe döndü. Mutfakta yalnız denk geldiniz. Taziyenizi cenazede iletmiştiniz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Kaybı hiç anmadan tamamen normal davranırsınız; belki işte unutmak istiyordur.",
+        "B": "\"Nasılsın, annen aklımdan çıkmıyor...\" diyerek konuyu doğrudan açarsınız.",
+        "C": "\"Dönmene sevindim, hoş geldin. Kolay günler değil; konuşmak istersen de istemezsen de buradayım.\" deyip kapıyı aralık bırakır, tempoyu ona bırakırsınız.",
+        "D": "Ona ekstra iş vermeyerek ve uzaktan kollayarak desteğinizi eylemle gösterirsiniz, hiç konuşmadan."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 4
+    },
+    {
+      "id": "MK-101",
+      "series": "blue",
+      "category": "Arkadaşlık / Etik İkilem",
+      "scenario": "Bir kafede, yakın arkadaşınızın partnerini başka biriyle aşırı samimi bir halde gördünüz. Emin olamayacağınız kadar kısa bir andı; belki masumdur, belki değildir.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Hiçbir şey söylemezsiniz; emin olmadığınız şeyle yuva yıkılmaz.",
+        "B": "Arkadaşınıza \"Partnerin seni aldatıyor olabilir.\" dersiniz; bilmeye hakkı var.",
+        "C": "Önce partnere gidip \"Sizi gördüm, açıklayın.\" dersiniz.",
+        "D": "Arkadaşınıza yorum katmadan yalnızca gördüğünüzü anlatırsınız: \"Bunu söylemek kolay değil ve ne anlama geldiğini bilmiyorum; ama dün şunu gördüm. Yorum yok, sadece bilmeni istedim.\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-102",
+      "series": "blue",
+      "category": "İş / Müzakere",
+      "scenario": "Zam istediniz. Yöneticiniz samimi bir tonla \"Hak ediyorsun, biliyorum ama bu dönem bütçe yok.\" dedi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Anlıyorum.\" deyip teşekkür eder, konuyu kapatırsınız; zorlamak ilişkiyi bozar.",
+        "B": "\"O zaman istifa etmeyi düşünmem gerekir.\" diyerek elinizi masaya koyarsınız.",
+        "C": "\"Anlıyorum, dönemi zorlamayayım. O halde şunu netleştirelim: hangi tarihte tekrar konuşuyoruz ve o güne kadar hangi somut hedefleri tutturursam bu zam gerçekleşiyor? Bunu yazılı planlayalım.\" dersiniz.",
+        "D": "Kabullenir ama motivasyonunuzu düşürüp işe yansıtırsınız; anlasınlar."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-103",
+      "series": "blue",
+      "category": "Arkadaşlık / Zor Dönem",
+      "scenario": "Yakın arkadaşınız aylardır zor bir dönemde; son dört davetinizi de reddetti. Mesajlara kısa cevaplar veriyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Davet etmeyi bırakırsınız; belli ki yalnız kalmak istiyor, saygı duymalısınız.",
+        "B": "\"Böyle kapanman iyi değil, seni zorla çıkaracağım.\" diyerek ısrarı artırırsınız.",
+        "C": "Baskısız ama düzenli teması sürdürürsünüz: \"Cevap yazma derdin olmasın, ben arada yoklamaya ve çağırmaya devam edeceğim. Hazır olduğunda tek mesajın yeter.\" Ara ara kapısına küçük bir şey bırakırsınız.",
+        "D": "Ortak arkadaşlardan durumunu takip eder, kendisine hiç dokunmazsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-104",
+      "series": "blue",
+      "category": "Evlilik / Sınır",
+      "scenario": "Kalabalık bir aile yemeğinde eşiniz, yalnızca ikinizin bildiği özel bir konunuzu (\"iş görüşmesinden eleneli...\") masaya anlattı. Rahatsız oldunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "O an masada \"Bunu neden anlatıyorsun?\" diye tepki gösterirsiniz; sınır anında çizilir.",
+        "B": "O an idare eder, arabada patlarsınız: \"Beni rezil ettin!\"",
+        "C": "O an konuyu kısa bir espriyle yumuşatıp geçersiniz; sonra baş başayken sakin konuşursunuz: \"Masada anlattığın konu bana özeldi ve zorlandım. Hangi konuların aramızda kalacağını birlikte netleştirelim mi?\"",
+        "D": "Siz de onun bir mahremini anlatır, dengeyi kurarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-105",
+      "series": "blue",
+      "category": "İş / Değişim Yönetimi",
+      "scenario": "Ekipçe yeni bir çalışma yöntemine geçiyorsunuz. En kıdemli üye toplantıda \"30 yıldır böyle yapıyoruz ve gayet iyi işliyor.\" diyerek açıkça direndi. Ekip size bakıyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Dünya değişiyor, ayak uydurmak zorundayız.\" diyerek kararlılık gösterirsiniz.",
+        "B": "Toplantıda geri adım atar, değişikliği sessizce rafa kaldırırsınız.",
+        "C": "\"30 yıllık tecrübenin gördüğü riskleri duymak istiyorum — sen bu geçişte neyin ters gideceğini herkesten iyi görürsün. Pilot bir denemeyi senin gözetiminde yapsak?\" diyerek direnci denetçi role çevirirsiniz.",
+        "D": "Toplantıdan sonra onu atlayarak değişikliği diğerleriyle uygularsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-106",
+      "series": "blue",
+      "category": "Ebeveynlik / Arkadaşlık",
+      "scenario": "Bir arkadaşınız her buluşmada çocuğunun başarılarını sizin çocuğunuzunkilerle kıyaslıyor: \"Bizimki okumayı sizinkinden önce söktü ama.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Siz de çocuğunuzun üstün olduğu alanları sayarak dengeyi kurarsınız.",
+        "B": "İçinize atarsınız; çocuk konusu hassastır, arkadaşlık bozulmasın.",
+        "C": "\"Her çocuğun takvimi farklı, kıyasa girmeyelim.\" deyip her seferinde konuyu kapatırsınız.",
+        "D": "Bir buluşmada baş başayken adını koyarsınız: \"Fark ettim, sohbetlerimiz hep çocukların karşılaştırmasına dönüşüyor ve bu beni geriyor. Çocukları yarıştırmadan konuşalım; ikisinin de sevdiğimiz yanları zaten yeterince konu.\""
+      },
+      "correctAnswer": "D",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-107",
+      "series": "blue",
+      "category": "Cenaze / Sosyal Kaza",
+      "scenario": "Bir cenaze evinde, gerginlikten olsa gerek, bir tanıdık yersiz bir espri yaptı. Ortam dondu; espriyi yapan da yerin dibine girdi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Onu kenara çekip \"Burada bu yapılır mı?\" diye uyarırsınız; birinin söylemesi gerek.",
+        "B": "Buz gibi bakışlarla cezayı ortamla birlikte kesersiniz.",
+        "C": "Donan anı, doğal bir cümleyle akışa bağlarsınız: \"Rahmetli de espriyi severdi aslında... Geçen şöyle bir anımız olmuştu.\" — ve anıyla sohbeti merhuma döndürürsünüz.",
+        "D": "Espriye kibarca gülümseyip destek olursunuz; adam zaten mahvoldu."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-108",
+      "series": "blue",
+      "category": "Eski Arkadaşlar / Sitem",
+      "scenario": "Uzun süredir görüşmediğiniz yakın bir arkadaş sitemle yazdı: \"Beni hiç aramıyorsun artık.\" Oysa o da sizi aramamıştı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Telefon iki taraflı çalışıyor; sen de aramadın.\" diye skoru hatırlatırsınız.",
+        "B": "\"Haklısın, kusura bakma.\" deyip tüm suçu üstlenirsiniz; tartışma çıkmasın.",
+        "C": "Sitemi özleme çevirirsiniz: \"Demek ikimiz de özlemişiz — bence bu iyi haber. Kimin aramadığını çözmek yerine cumartesi kahve içelim mi?\"",
+        "D": "\"İkimiz de yoğunduk, normal.\" diyerek konuyu duygusuzca kapatırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-109",
+      "series": "blue",
+      "category": "İlişki / Duygu Okuma",
+      "scenario": "Partnerinizin canının sıkkın olduğu her halinden belli. Sordunuz; \"Bir şey yok.\" dedi. Ama bir şey olduğu açık.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Peki.\" deyip sözüne güvenir, kendi işinize dönersiniz; yetişkin, isterse söyler.",
+        "B": "\"Var, biliyorum. Söyleyene kadar buradayım.\" diye üstüne giderek açtırırsınız.",
+        "C": "\"Tamam, zorlamayacağım. Ama sıkkın görünüyorsun ve umurumda; hazır olduğunda dinlemek istiyorum. Bu arada çay koyuyorum, sana da mı?\" deyip yakınlıkta kalırsınız.",
+        "D": "Siz de sessizleşip aynı mesafeyi vererek mesajı iade edersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-110",
+      "series": "blue",
+      "category": "İş / Güç ve Kapsayıcılık",
+      "scenario": "Toplantıda genç bir çalışan bir fikir söyledi; kimse duymadı, konu aktı. Beş dakika sonra kıdemli biri neredeyse aynı fikri söyledi ve alkış aldı. Siz masanın sözü dinlenen kişisisiniz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Sessiz kalırsınız; sonuçta doğru fikir kazandı, kimden geldiği detay.",
+        "B": "Toplantıdan sonra gence \"Fikrin iyiydi aslında.\" diye özelden moral verirsiniz.",
+        "C": "O an söz alırsınız: \"Katılıyorum — ve bu, Deniz'in az önce söylediğinin devamı aslında. Deniz, sen açar mısın biraz, ilk halinde ne düşünmüştün?\"",
+        "D": "Kıdemliye dönüp \"Bu fikir az önce söylendi ama.\" diye düzeltirsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-111",
+      "series": "blue",
+      "category": "Arkadaş Grubu / Para",
+      "scenario": "Yakın arkadaşınızın bekârlığa veda organizasyonu için grupta kişi başı ciddi bir bütçe belirlendi. Bu tutar sizi gerçekten zorluyor; ama \"damat için bu kadar da yapılır\" havası hâkim.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Krediyle de olsa katılırsınız; hayatta bir kez oluyor ve dostluk paradan önemli.",
+        "B": "\"Bütçem uygun değil, ben yokum.\" deyip organizasyondan tamamen çekilirsiniz.",
+        "C": "Organizatöre özelden net konuşursunuz: \"Orada olmayı çok istiyorum ama bu tutar beni aşıyor. Şu kadarına kadar katılabilirim — ya kapsamı ona göre ayarlarız ya da ben pahalı etkinliğe değil, akşam yemeği kısmına katılırım.\"",
+        "D": "Katılırım der, son hafta \"işim çıktı\" diye iptal edersiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-112",
+      "series": "blue",
+      "category": "Komşuluk / Sınır",
+      "scenario": "İyi kalpli ama sınır tanımayan komşunuz haftada birkaç kez kapınızı çalıyor: koli taşıtma, çocuğa bakıverme, alışveriş... Yardımsever biri olarak başladınız ama artık kendi hayatınıza yetişemiyorsunuz.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Yardımı sürdürürsünüz; komşuluk budur ve muhtaç birini geri çevirmek olmaz.",
+        "B": "Kapıyı açmamaya, mesajları geç görmeye başlarsınız; anlasın.",
+        "C": "Bir sonraki istekte sıcak ama net konuşursunuz: \"Size yardım etmek hoşuma gidiyor ama son dönemde kendi işlerime yetişemez oldum. Acil durumlarda her zaman buradayım; günlük işler içinse her seferinde yetişemeyebilirim, şimdiden bilin istedim.\"",
+        "D": "Başka bir komşuyu işaret edersiniz: \"Aslında 3 numara bu işlerde çok iyidir.\""
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-113",
+      "series": "blue",
+      "category": "Arkadaşlık / Küslük",
+      "scenario": "İki yakın arkadaşınız birbirine küstü. İkisiyle de görüşüyorsunuz; ikisi de sizden ötekiyle görüşmenizi azaltmanızı ima ediyor: \"O nasıl bu arada? Hâlâ görüşüyor musunuz yani...\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "İkisiyle görüşmeyi de azaltırsınız; ortada kalmaktan iyidir.",
+        "B": "Daha haklı bulduğunuz tarafla görüşmeye devam eder, diğerini yavaşça bırakırsınız.",
+        "C": "İkisine de aynı net cümleyi kurarsınız: \"İkinizin arasındaki mesele ikinizin; ben ikinizin de arkadaşıyım ve öyle kalacağım. Yanınızda onu kötülemem, yanında da sizi. Bu benim sınırım.\"",
+        "D": "İkisini habersizce aynı kafede buluşturup barıştırırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-114",
+      "series": "blue",
+      "category": "Sağlık / Kaygı Anı",
+      "scenario": "Arkadaşınız önemli bir tahlil sonucu bekliyor ve çok korkmuş: \"Ya kötü bir şey çıkarsa?\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Saçmalama, kesin iyi çıkacak. İçime doğuyor.\" diye güven verirsiniz.",
+        "B": "\"Kötü çıkarsa da tıp çok ilerledi, şunlar şunlar yapılıyor...\" diye senaryoları konuşursunuz.",
+        "C": "\"Bu bekleyiş gerçekten zor; korkman çok anlaşılır. Sonuç gününe kadar buradayım — istersen o gün seninle geleyim?\" dersiniz.",
+        "D": "\"Düşünme, kafanı dağıt.\" deyip konuyu neşeli bir şeye çevirirsiniz."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-115",
+      "series": "blue",
+      "category": "Aile / Yaşlanan Ebeveyn",
+      "scenario": "Babanızın araç kullanımı gözle görülür biçimde riskli hale geldi; küçük kazalar atlatıldı. Direksiyon onun için özgürlük demek. Konuyu açmanız gerekiyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Baba, artık kullanmayacaksın; anahtarı bana ver.\" diye net ve kesin konuşursunuz; can güvenliği tartışılmaz.",
+        "B": "Konuyu hiç açmaz, kardeşlerinizle arabayı gizlice \"tamire\" gönderirsiniz.",
+        "C": "Konuyu güvenlik dersinden çıkarıp onun dünyasından açarsınız: \"Baba, senin için direksiyonun ne demek olduğunu biliyorum. Ben son zamanlarda endişeleniyorum; sen kendini nasıl hissediyorsun sürerken? Gece sürüşünü azaltmaktan başlasak, pazar işlerini ben üstlensem — bir de doktora beraber danışsak?\"",
+        "D": "Doktoruna gizlice haber verip ehliyet yenilemede elenmesini sağlarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-116",
+      "series": "blue",
+      "category": "İş / Arkadaşlık",
+      "scenario": "Terfiyi siz aldınız; aynı pozisyona yakın arkadaşınız da adaydı. Haber az önce duyuruldu ve koridorda karşılaşacaksınız.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Konuyu hiç açmazsınız; zamanla normalleşir, kaşımaya gerek yok.",
+        "B": "\"Aslında sen hak etmiştin, yönetim yanlış karar verdi bence.\" diyerek gönlünü alırsınız.",
+        "C": "İlk fırsatta baş başa konuşursunuz: \"Bu durum ikimiz için de tuhaf, biliyorum. Senin emeğini herkesten iyi bilenlerdenim. Arkadaşlığımız benim için bu işten önce geliyor; sen ne hissediyorsan konuşalım, kaçacak değilim.\"",
+        "D": "Sevincinizi bastırır, terfiyi önemsizmiş gibi gösterirsiniz: \"Angarya aslında, sevinilecek bir şey yok.\""
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-117",
+      "series": "blue",
+      "category": "Sosyal Medya / Görüş Ayrılığı",
+      "scenario": "Çok sevdiğiniz bir arkadaşınız, sizin dünya görüşünüze taban tabana zıt ve sizce haksız bir paylaşım yaptı. İçinizden uzun bir cevap yazmak geçiyor.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Yorumlara kaynaklarıyla kapsamlı bir karşı cevap yazarsınız; yanlış görünür bırakılmamalı.",
+        "B": "Sessizce takibi bırakır, buluşmaları azaltırsınız; değerler uyuşmuyorsa arkadaşlık zorlamadır.",
+        "C": "Yorum yazmaz; ilk buluşmada yüz yüze ve merakla açarsınız: \"O paylaşımını gördüm, benim baktığım yerden çok farklı görünüyor. Kavga etmek için değil, gerçekten anlamak için soruyorum: seni bu görüşe getiren ne oldu?\"",
+        "D": "Görmezden gelirsiniz; arkadaşlıkla görüş ayrı şeylerdir, hiç konuşmamak en güvenlisidir."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-118",
+      "series": "blue",
+      "category": "Arkadaş Grubu / Dışlanma",
+      "scenario": "Arkadaş grubunuzun sizsiz buluştuğunu sosyal medyadan gördünüz. Çağrılmamışsınız. İçiniz acıdı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Hiçbir şey demezsiniz ama grupla aranıza sessizce mesafe koyarsınız; mesaj alınmıştır.",
+        "B": "Gruba \"Ne güzel eğlenmişsiniz, bizi çağırmak yok tabii.\" diye yarı şaka yarı sitem yazarsınız.",
+        "C": "En yakın hissettiğinize özelden, suçlamadan sorarsınız: \"Fotoğrafları gördüm, açıkçası biraz buruk hissettim. Bilerek mi gelişti bilmiyorum — bir sebep varsa duymak isterim, yoksa da bir dahakinde beni de sayın.\"",
+        "D": "Siz de onlarsız bir buluşma düzenleyip fotoğrafları paylaşırsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-119",
+      "series": "blue",
+      "category": "İlişki / Aileler",
+      "scenario": "Partnerinizin ailesiyle yemekteydiniz. Annesi, partneriniz mutfaktayken size \"kibarca\" dokundurdu: \"Sen tabii yemek yapmayı pek bilmezsin, bizim kız da yoruluyor.\" Partneriniz duymadı.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Partnerinize hiç söylemezsiniz; annesiyle arasını açmak istemezsiniz, bu yükü siz taşırsınız.",
+        "B": "O an anneye kibar ama net cevap verirsiniz: \"Aslında mutfağı severim; iş bölümümüzü ikimiz gayet güzel kurduk.\" — eve dönünce de partnerinize sakin biçimde aktarırsınız: \"Kavga çıksın istemiyorum ama bilmen gerek, şöyle bir şey oldu.\"",
+        "C": "Eve döner dönmez \"Annen bana laf soktu, bir şey yapman gerek!\" diye tepki talep edersiniz.",
+        "D": "O an alttan alır, sonraki ziyaretlerde bahaneler üretip gitmezsiniz."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-120",
+      "series": "blue",
+      "category": "Arkadaşlık / Karşılık Beklentisi",
+      "scenario": "Bir arkadaşınız size sık sık iyilik yapıyor; ama sonrasında bunları hatırlatıyor: \"Ben senin için şunu da yapmıştım ama.\" Son iyiliğinde yine aynı cümle geldi.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "Skor eşitlemek için siz de yaptıklarınızı sayarsınız: \"Ben de senin için...\"",
+        "B": "Artık ondan hiçbir iyilik kabul etmezsiniz; borç hissi bitsin.",
+        "C": "Bir dahaki hatırlatmada sakin ve açık konuşursunuz: \"Yaptıkların benim için değerli ve teşekkür etmeyi seviyorum. Ama sonradan hatırlatılınca iyilik, borca dönüşüyor ve aramızı tuhaflaştırıyor. Ben sana hesapsız iyilik yapmak istiyorum; senden de öyle almak isterim.\"",
+        "D": "Hatırlatmaları duymazdan gelirsiniz; huyudur, değişmez."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-121",
+      "series": "blue",
+      "category": "Geçmiş / Affetme",
+      "scenario": "Yıllar önce sizi ciddi biçimde kırmış ve o dönem hiç özür dilememiş eski bir arkadaş, bugün uzun bir mesajla içten görünen bir özür gönderdi: \"Yıllardır vicdanımdaydı.\"",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Olan oldu, geçti gitti; hiç dert etme!\" diye hızla affeder, konuyu kapatırsınız.",
+        "B": "Mesajı cevapsız bırakırsınız; özür treni yıllar önce kaçtı.",
+        "C": "\"Bunu yazmak cesaret istemiştir, teşekkür ederim. O dönem beni gerçekten yaralamıştı ve bunun duyulması benim için önemli. Affetmeye açığım; ama eski yakınlığa dönmek için biraz zamana ve belki bir yüz yüze konuşmaya ihtiyacım var.\" diye hem kabulü hem sınırı yazarsınız.",
+        "D": "\"Neden şimdi? Yıllarca neredeydin?\" diye sorgulayarak açarsınız."
+      },
+      "correctAnswer": "C",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    },
+    {
+      "id": "MK-122",
+      "series": "blue",
+      "category": "İş / Liderlik",
+      "scenario": "Ekibinizden birinin hatası yüzünden müşteri zarar gördü. Müşteri toplantıda öfkeyle soruyor: \"Bu hatayı kim yaptı?\" Hatayı yapan kişi de toplantıda.",
+      "question": "Ne yaparsınız?",
+      "answers": {
+        "A": "\"Arkadaşımız Deniz'in gözünden kaçmış.\" diye dürüstçe söylersiniz; şeffaflık esastır.",
+        "B": "\"Süreçlerimizdeki bir kontrol eksiğinden kaynaklandı; sorumluluk ekip lideri olarak bende. Şu adımlarla telafi ediyoruz ve tekrarını şöyle engelliyoruz.\" dersiniz; içeride ise hatayı yapanla baş başa yapıcı bir değerlendirme yaparsınız.",
+        "C": "\"Bunu içeride araştırıyoruz.\" deyip geçiştirir, kimseyi korumaz ama bilgi de vermezsiniz.",
+        "D": "Toplantıdan sonra müşteriye özelden ismi verirsiniz; toplantıda vermemek yeterli inceliktir."
+      },
+      "correctAnswer": "B",
+      "cta": "Sen olsan hangisini seçerdin?",
+      "difficulty": 2
+    }
+  ]
+}

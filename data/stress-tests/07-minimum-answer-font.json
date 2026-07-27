@@ -1,0 +1,20 @@
+{
+  "id": "ST-007",
+  "series": "blue",
+  "category": "Çatışma Çözme",
+  "scenario": "Bir arkadaşınız sözünüzü yanlış anladığını söyledi.",
+  "question": "Yanlış anlaşılmayı büyütmeden nasıl açıklarsınız?",
+  "media": {
+    "type": "image",
+    "src": "assets/screenshots/awkward-message.jpg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "Sen yanlış anlamışsın.",
+    "B": "Konuyu kapatalım.",
+    "C": "Ben öyle demedim.",
+    "D": "Söylediğimin sende böyle bir etki bırakmasına üzüldüm; niyetim seni eleştirmek değildi. Önce senin ne duyduğunu dikkatle dinleyip ardından anlatmak istediğimi daha açık ve sakin biçimde yeniden ifade edebilirim şimdi."
+  },
+  "correctAnswer": "D",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

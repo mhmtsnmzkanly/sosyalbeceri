@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F1F4F8"/>
+  <rect x="210" y="38" width="780" height="554" rx="32" fill="#FFFFFF" stroke="#CBD9EA" stroke-width="4"/>
+  <circle cx="270" cy="102" r="28" fill="#E7EFFA"/>
+  <path d="M257 104c8-18 25-18 29 0M262 114c8 7 16 7 24 0" fill="none" stroke="#1557B0" stroke-width="5" stroke-linecap="round"/>
+  <text x="320" y="98" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#142033">Yeni mesaj</text>
+  <text x="320" y="130" font-family="Arial, sans-serif" font-size="20" fill="#7D8794">Bugün, 21:42</text>
+  <rect x="272" y="184" width="522" height="92" rx="28" fill="#E7EFFA"/>
+  <text x="304" y="226" font-family="Arial, sans-serif" font-size="25" fill="#142033">Selam, nasılsın? Biraz konuşalım mı?</text>
+  <text x="304" y="258" font-family="Arial, sans-serif" font-size="19" fill="#7D8794">Görüldü</text>
+  <rect x="406" y="328" width="520" height="102" rx="28" fill="#1557B0"/>
+  <text x="446" y="373" font-family="Arial, sans-serif" font-size="25" fill="#FFFFFF">Şu an konuşmak istemiyorum.</text>
+  <text x="446" y="405" font-family="Arial, sans-serif" font-size="25" fill="#FFFFFF">Anlayışın için teşekkür ederim.</text>
+  <rect x="272" y="492" width="654" height="58" rx="29" fill="#F7F9FC" stroke="#CBD9EA" stroke-width="3"/>
+  <text x="306" y="530" font-family="Arial, sans-serif" font-size="22" fill="#7D8794">Mesaj yaz...</text>
+</svg>

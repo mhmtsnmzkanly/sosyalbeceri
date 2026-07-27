@@ -1,0 +1,20 @@
+{
+  "id": "ST-004",
+  "series": "blue",
+  "category": "Grup İletişimi",
+  "scenario": "Toplantıda iki kişi aynı anda konuşmaya başladı.",
+  "question": "Söz hakkını dengeli biçimde nasıl düzenlersiniz?",
+  "media": {
+    "type": "image",
+    "src": "assets/screenshots/awkward-message.jpg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "İkinizi de duymak istiyorum; önce bu düşünceyi tamamlayalım, ardından diğer görüşe geçip ortak noktaları birlikte belirleyelim.",
+    "B": "Kimin daha kıdemli olduğuna bakıp yalnız onun konuşmasına izin verir, diğer kişinin görüşünü toplantı sonrasına ertelerim.",
+    "C": "Konuşmanın kendiliğinden düzelmesini bekler, sesler yükselse bile araya girmeden notlarıma bakmaya devam ederim.",
+    "D": "İki görüşü de kısaca özetler, sırayla söz verip herkesin cümlesini kesilmeden tamamlayabileceği açık bir düzen kurarım."
+  },
+  "correctAnswer": "D",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

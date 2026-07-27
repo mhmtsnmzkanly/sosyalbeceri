@@ -1,0 +1,25 @@
+{
+  "_fieldDescriptions": {
+    "id": "Kart üzerinde gösterilen kimlik ve oluşturulan PNG dosyasının adı. Örnek: MK-001.",
+    "series": "İsteğe bağlı metadata alanı. Renderer tarafından görmezden gelinir.",
+    "category": "Kartın sağ üst köşesindeki kategori rozetinde gösterilen metin.",
+    "scenario": "Ana sorudan önce gösterilen durum veya olay açıklaması.",
+    "question": "Kullanıcıya yöneltilen, kartın görsel olarak öne çıkan ana sorusu.",
+    "difficulty": "Gösterilecek zorluk maskotunu belirleyen 1 ile 4 arasındaki tam sayı.",
+    "answers": "Kartta A, B, C ve D sırasıyla gösterilen dört cevap seçeneği.",
+    "correctAnswer": "İsteğe bağlı metadata alanı. Renderer bunu doğrulamaz ve doğru cevabı görselde vurgulamaz."
+  },
+  "id": "MK-001",
+  "series": "blue",
+  "category": "Kategori",
+  "scenario": "Senaryo metnini buraya yazın.",
+  "question": "Ana soruyu buraya yazın.",
+  "difficulty": 1,
+  "answers": {
+    "A": "A seçeneğini buraya yazın.",
+    "B": "B seçeneğini buraya yazın.",
+    "C": "C seçeneğini buraya yazın.",
+    "D": "D seçeneğini buraya yazın."
+  },
+  "correctAnswer": "A"
+}

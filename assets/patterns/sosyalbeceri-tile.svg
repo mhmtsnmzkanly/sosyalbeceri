@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <g fill="none" stroke="#1557B0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.40">
+    <!-- Speech Bubble (Chat) -->
+    <path d="M40 50 c0-11 9-20 20-20 h30 c11 0 20 9 20 20 v15 c0 11-9 20-20 20 h-10 l-15 12 v-12 h-5 c-11 0-20-9-20-20 z"/>
+
+    <!-- Paper Airplane -->
+    <path d="M320 40 l60 25 -75 25 15 -50 z M380 65 l-40 10"/>
+
+    <!-- Star -->
+    <path d="M195 100 l4 9 10 1 -7 7 2 10 -9 -5 -9 5 2 -10 -7 -7 10 -1 z"/>
+
+    <!-- Coffee Cup -->
+    <path d="M50 220 h30 v20 c0 8 -7 15 -15 15 s-15 -7 -15 -15 z M80 225 h8 c4 0 6 3 6 6 s-2 6 -6 6 h-8 M50 210 c3-4 3-8 0-12 M65 210 c3-4 3-8 0-12 M80 210 c3-4 3-8 0-12"/>
+
+    <!-- Light Bulb -->
+    <path d="M380 180 a20 20 0 1 0 24 32 l-4 6 h-16 l-4 -6 a20 20 0 0 0 0 -32 z M396 224 h8 M398 228 h4"/>
+
+    <!-- Question Mark -->
+    <path d="M230 250 c0 -12 16 -12 16 -24 c0 -8 -8 -12 -14 -12 c-6 0 -12 4 -14 10 M232 266 h.01" stroke-width="3.5"/>
+
+    <!-- Pencil -->
+    <path d="M100 370 l30 -30 10 10 -30 30 -12 2 z M130 340 l10 10"/>
+
+    <!-- Smile -->
+    <circle cx="360" cy="350" r="22"/>
+    <circle cx="352" cy="342" r="2.5" fill="#1557B0"/>
+    <circle cx="368" cy="342" r="2.5" fill="#1557B0"/>
+    <path d="M350 356 c5 6 15 6 20 0"/>
+
+    <!-- Notebook -->
+    <rect x="220" y="370" width="36" height="46" rx="4"/>
+    <line x1="230" y1="370" x2="230" y2="416"/>
+    <line x1="238" y1="382" x2="250" y2="382"/>
+    <line x1="238" y1="394" x2="250" y2="394"/>
+
+    <!-- Fox Ears / Head Motif -->
+    <path d="M50 400 l18 -30 18 30 h-36 z M56 388 h24 M68 400 l6 7 6 -7"/>
+  </g>
+</svg>

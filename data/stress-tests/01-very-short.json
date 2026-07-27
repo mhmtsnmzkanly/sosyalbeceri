@@ -1,0 +1,20 @@
+{
+  "id": "ST-001",
+  "series": "blue",
+  "category": "Selamlaşma",
+  "scenario": "Biri selam verdi.",
+  "question": "Ne dersin?",
+  "media": {
+    "type": "image",
+    "src": "assets/screenshots/awkward-message.jpg",
+    "fit": "contain"
+  },
+  "answers": {
+    "A": "Merhaba!",
+    "B": "Selam.",
+    "C": "Günaydın.",
+    "D": "Nasılsın?"
+  },
+  "correctAnswer": "A",
+  "cta": "Sen olsan hangisini seçerdin?"
+}

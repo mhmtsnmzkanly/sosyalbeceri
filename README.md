@@ -93,7 +93,6 @@ Bundle çalıştırılmadan önce proje bağımlılıklarının kurulmuş olmas�
 ```json
 {
   "id": "MK-001",
-  "series": "blue",
   "category": "Sınır Koyma",
   "scenario": "Bir tanıdığınız özel bir konuyu ısrarla soruyor.",
   "question": "Kibar ama net bir sınırı nasıl ifade edersiniz?",
@@ -103,19 +102,16 @@ Bundle çalıştırılmadan önce proje bağımlılıklarının kurulmuş olmas�
     "B": "İkinci cevap",
     "C": "Üçüncü cevap",
     "D": "Dördüncü cevap"
-  },
-  "correctAnswer": "A",
-  "cta": "Sen olsan hangisini seçerdin?"
+  }
 }
 ```
 
-`answers` bir dizi değildir; tam olarak `A`, `B`, `C` ve `D` anahtarlarını
-içeren tek nesnedir.
+`answers` bir dizi değildir; zorunlu `A`, `B`, `C` ve `D` anahtarlarını
+içeren tek nesnedir. Bu nesnedeki ek metadata alanları görmezden gelinir.
 
-`correctAnswer` yalnızca doğrulama ve metadata amacıyla saklanır. Doğru cevap
-görselde vurgulanmaz.
-
-`cta` mevcut şemada zorunlu tutulur ancak güncel görsel tasarımda çizilmez.
+`series`, `correctAnswer`, `cta` ve tanınmayan diğer metadata alanları
+renderer tarafından kullanılmaz ve doğrulama sonucunda görmezden gelinir.
+Doğru cevap hiçbir durumda görselde vurgulanmaz.
 
 `difficulty` isteğe bağlıdır. Verilmediğinde seviye `1` kabul edilir.
 
